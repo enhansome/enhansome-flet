@@ -1,0 +1,1168 @@
+{
+  "items": [
+    {
+      "description": "Articles, tutorials, and videos for learning Flet.",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "Flet apps shipped to one or more public app stores.",
+      "items": [],
+      "title": "Published Apps"
+    },
+    {
+      "description": "Extensions add new controls and native capabilities by wrapping Flutter packages and platform APIs. See this guide to build your own extensions, then open a PR to this repo to have it listed here.",
+      "items": [],
+      "title": "Extensions"
+    },
+    {
+      "description": "Built and actively maintained by the Flet team.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flet-ads",
+          "description": "Google AdMob ads. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-audio",
+          "description": "Audio playback. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-audio-recorder",
+          "description": "Microphone audio recording. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-camera",
+          "description": "Device camera access. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-charts",
+          "description": "Interactive charts and graphs. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-code-editor",
+          "description": "Code editor with syntax highlighting. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-color-pickers",
+          "description": "Color picker controls. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-datatable2",
+          "description": "DataTable with sticky headers and fixed columns. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-flashlight",
+          "description": "Device torch control. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-geolocator",
+          "description": "GPS position and position streams. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-lottie",
+          "description": "Lottie animations. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-map",
+          "description": "Interactive tile-based maps. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-permission-handler",
+          "description": "Request and check device permissions. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-rive",
+          "description": "Rive animations. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-secure-storage",
+          "description": "Native secure key-value storage. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-spinkit",
+          "description": "Loading spinners. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-video",
+          "description": "Cross-platform video player. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-webview",
+          "description": "In-app WebView. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:09:30Z",
+            "owner": "flet-dev",
+            "repo": "flet",
+            "stars": 16577
+          }
+        }
+      ],
+      "title": "Official Extensions"
+    },
+    {
+      "description": "Built and maintained by the community. These may be experimental, in early development, not actively maintained or incompatible with your Flet version, but they highlight the ecosystem's creativity and potential while further demonstrating Flet's extensibility and power.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flet_notifications",
+          "description": "Local and scheduled notifications. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-05-10T13:29:33Z",
+            "owner": "Bbalduzz",
+            "repo": "flet_notifications",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-onesignal",
+          "description": "Push notifications and in-app messaging. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T06:30:41Z",
+            "owner": "brunobrown",
+            "repo": "flet-onesignal",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-dropzone",
+          "description": "Drop zone control that accepts dropping files to your Flet desktop app. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-01T12:00:20Z",
+            "owner": "shiena",
+            "repo": "flet-dropzone",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-health",
+          "description": "Read and write health data from Apple HealthKit and Google Health Connect. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T20:43:51Z",
+            "owner": "brunobrown",
+            "repo": "flet-health",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-gnav-bar",
+          "description": "Google Nav Bar style animated bottom navigation. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-11T15:04:41Z",
+            "owner": "programmersd21",
+            "repo": "flet_gnav_bar",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparkle_auto_updater",
+          "description": "Push automatic desktop-app updates. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-04-15T07:38:02Z",
+            "owner": "ap4499",
+            "repo": "sparkle_auto_updater",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-blur",
+          "description": "Transparency and blur effects. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-03-25T17:37:47Z",
+            "owner": "shiena",
+            "repo": "flet-blur",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet_math",
+          "description": "Renders LaTeX and TeX math formulas. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-19T10:08:25Z",
+            "owner": "Bbalduzz",
+            "repo": "flet_math",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-sherpa-onnx",
+          "description": "On-device speech-to-text. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-05-11T05:05:49Z",
+            "owner": "SamYuan1990",
+            "repo": "flet_sherpa_onnx",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-material-symbols",
+          "description": "Google's Material Symbols icon set for Flet. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T16:54:03Z",
+            "owner": "Creeper19472",
+            "repo": "flet-material-symbols",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-open-file",
+          "description": "Open files with the device's native handler app. Wraps .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-10-05T04:27:10Z",
+            "owner": "Creeper19472",
+            "repo": "flet-open-file",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Community Extensions"
+    },
+    {
+      "description": "Community-made reusable packages, frameworks, and components that extend what you can build with Flet — routing, state management, forms, theming, and UI.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flet StoryBoard",
+          "description": "Visual UI builder for Flet front-ends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T14:56:14Z",
+            "owner": "SKbarbon",
+            "repo": "Flet_StoryBoard",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fletmint",
+          "description": "Modern, customizable component library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-29T17:06:09Z",
+            "owner": "Bbalduzz",
+            "repo": "fletmint",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-easy",
+          "description": "App framework with routing, middleware, JWT, and route protection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-06T05:41:25Z",
+            "owner": "Daxexs",
+            "repo": "flet-easy",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FletX",
+          "description": "GetX-inspired reactive framework: state management, routing, dependency injection, and a CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T12:24:32Z",
+            "owner": "AllDotPy",
+            "repo": "FletX",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-contrib",
+          "description": "Community-contributed Flet controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T20:48:26Z",
+            "owner": "flet-dev",
+            "repo": "flet-contrib",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-route",
+          "description": "ExpressJS-style dynamic routing with URL path parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-04T01:26:48Z",
+            "owner": "saurabhwadekar",
+            "repo": "flet_route",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-mvc",
+          "description": "Model-View-Controller structure with reactive datapoints and a scaffolding CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T19:17:45Z",
+            "owner": "o0Adrian",
+            "repo": "flet-mvc",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet_navigator",
+          "description": "Router for building multi-page apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-22T18:05:39Z",
+            "owner": "xzripper",
+            "repo": "flet_navigator",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FletCustomRepo",
+          "description": "Custom components, UI templates, and animation effects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-11T12:10:15Z",
+            "owner": "LegendaryPistachio",
+            "repo": "FletCustomRepo",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FletifyHTML",
+          "description": "Converts HTML content into Flet code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-18T18:38:54Z",
+            "owner": "Benitmulindwa",
+            "repo": "FletifyHTML",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluentflet",
+          "description": "Microsoft Fluent Design System component library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-17T10:27:31Z",
+            "owner": "Bbalduzz",
+            "repo": "fluentflet",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-carousel",
+          "description": "Carousel slider controls.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-09-12T14:34:09Z",
+            "owner": "naderidev",
+            "repo": "flet-carousel",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neumoflet",
+          "description": "Generates neumorphic-design UI code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-25T20:58:20Z",
+            "owner": "Benitmulindwa",
+            "repo": "neumoflet",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FletRouter",
+          "description": "FastAPI-style routing for Flet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-01T12:11:45Z",
+            "owner": "50Bytes-dev",
+            "repo": "flet-router",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-asp",
+          "description": "Riverpod-inspired reactive state management using atoms, selectors, and actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T01:34:33Z",
+            "owner": "brunobrown",
+            "repo": "flet-asp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-model",
+          "description": "Model-based router with state management, view caching, and event binding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-04T13:20:10Z",
+            "owner": "fasilwdr",
+            "repo": "Flet-Model",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet_restyle",
+          "description": "Styling utilities for Flet apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-22T19:33:41Z",
+            "owner": "xzripper",
+            "repo": "flet_restyle",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-form",
+          "description": "User input validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-28T21:37:42Z",
+            "owner": "50Bytes-dev",
+            "repo": "flet-form",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-stacked",
+          "description": "Control for managing multiple pages with animated transitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T02:58:08Z",
+            "owner": "osamalzabidi",
+            "repo": "flet-stacked",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-toast",
+          "description": "Customizable toast notifications with configurable position and duration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T10:59:10Z",
+            "owner": "webtechmoz",
+            "repo": "flet-toast",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet_pb_v_calc",
+          "description": "Progress bar value calculator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-21T15:17:14Z",
+            "owner": "xzripper",
+            "repo": "flet_pb_v_calc",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "persian-datepicker",
+          "description": "Persian (Shamsi/Jalali) date picker with RTL support, theming, and keyboard navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T19:39:11Z",
+            "owner": "AliAminiCode",
+            "repo": "flet-persian-datepicker",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-wizards",
+          "description": "Ready-made multi-step wizard templates with reactive state and theming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-15T07:07:08Z",
+            "owner": "Alisonsantos77",
+            "repo": "flet-wizards",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-wcolors",
+          "description": "Named color collection for use in apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T03:01:59Z",
+            "owner": "osamalzabidi",
+            "repo": "flet-wcolors",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-cacheimg",
+          "description": "Drop-in CacheImage and CacheCircleAvatar controls that cache network images on disk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-09-14T15:58:01Z",
+            "owner": "ReYaNOW",
+            "repo": "flet-cacheimg",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-components",
+          "description": "Collection of pre-styled UI components that extend Flet's native controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-06T07:55:13Z",
+            "owner": "Duz-Dev",
+            "repo": "flet_component",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-stack",
+          "description": "Decorator-based routing with automatic view stacking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-19T22:21:07Z",
+            "owner": "fasilwdr",
+            "repo": "flet-stack",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Community-made open-source apps and projects built with Flet — browse them to learn by example or see what's possible.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TAICHI-flet",
+          "description": "Windows desktop app for browsing images, music, novels, and comics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T00:28:24Z",
+            "owner": "moshstudio",
+            "repo": "TAICHI-flet",
+            "stars": 4734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BillyGPT",
+          "description": "Free, cross-platform ChatGPT client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T15:40:18Z",
+            "owner": "B1lli",
+            "repo": "BillyGPT",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ki-nTree",
+          "description": "Fast part creation for KiCad and InvenTree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T16:15:21Z",
+            "owner": "sparkmicro",
+            "repo": "Ki-nTree",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet_projects",
+          "description": "Collection of applications built with Flet.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-05T13:00:33Z",
+            "owner": "LineIndent",
+            "repo": "flet_projects",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iBackep",
+          "description": "Lightweight GUI backup manager for iPhone and iPad on Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-15T12:06:00Z",
+            "owner": "redromnon",
+            "repo": "iBackep",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amacapy",
+          "description": "Amazon affiliate scraper and Telegram bot with a Flet UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T11:51:33Z",
+            "owner": "sulasoft",
+            "repo": "Amacapy-Bot-Telegram-Amazon-Affiliates",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-alchemy",
+          "description": "Example integrating Flet with SQLAlchemy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-20T10:58:12Z",
+            "owner": "nbilbo",
+            "repo": "flet-alchemy",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flet Base",
+          "description": "Starter app with multiple pages and basic auth to jump-start a project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-28T11:17:16Z",
+            "owner": "TonyXdZ",
+            "repo": "flet-base",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solitaire-on-python",
+          "description": "Solitaire card game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T06:38:48Z",
+            "owner": "makhmud-dev",
+            "repo": "Solitaire-on-python",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIChat",
+          "description": "Customizable AI chat application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-04T00:32:04Z",
+            "owner": "Hayashi-Yudai",
+            "repo": "aichat",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrePaste",
+          "description": "Clipboard privacy assistant that detects and redacts sensitive data before you paste it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T21:59:13Z",
+            "owner": "TheAnshulPrakash",
+            "repo": "PrePaste",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calculator",
+          "description": "Minimal calculator app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-26T17:50:47Z",
+            "owner": "taaaf11",
+            "repo": "Calculator",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple Stopwatch",
+          "description": "A simple stopwatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-26T02:24:07Z",
+            "owner": "taaaf11",
+            "repo": "Simple-Stopwatch",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bro-Bot-AI",
+          "description": "App for exploring AI chatbot technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-10T15:27:59Z",
+            "owner": "UnnatMalik",
+            "repo": "CHAT-BOT",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Organo",
+          "description": "Generates organic structures from their IUPAC names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-15T08:21:58Z",
+            "owner": "Benitmulindwa",
+            "repo": "organo",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-timer",
+          "description": "Example countdown timer using threads for real-time updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T03:00:09Z",
+            "owner": "osamalzabidi",
+            "repo": "flet-timer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bookkeeping Assistant",
+          "description": "Small bookkeeping and hourly-rate calculator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-09T12:01:11Z",
+            "owner": "jmzdd",
+            "repo": "Bookkeeping-Assistant",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGem",
+          "description": "Adaptation of the board game Splendor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T13:14:07Z",
+            "owner": "jorge-lgclabs",
+            "repo": "PyGem",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps and Projects"
+    },
+    {
+      "description": "Utilities and integrations that improve the Flet development workflow.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "figmaflet",
+          "description": "Generates Flet UI code from Figma designs via the Figma API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T21:01:14Z",
+            "owner": "Benitmulindwa",
+            "repo": "FigmaFlet",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-mcp-server",
+          "description": "MCP server that serves official Flet docs and package info to AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T13:57:44Z",
+            "owner": "Nwokike",
+            "repo": "flet-mcp-server",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-pkg",
+          "description": "CLI that scaffolds Flet extension packages from Flutter packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T04:23:25Z",
+            "owner": "brunobrown",
+            "repo": "flet-pkg",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flet-splash",
+          "description": "CLI that injects native splash screens into Flet apps during the build.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T06:32:30Z",
+            "owner": "brunobrown",
+            "repo": "flet-splash",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyflet",
+          "description": "CLI for scaffolding and managing Flet web projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-15T13:10:03Z",
+            "owner": "webtechmoz",
+            "repo": "pyflet",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "Contributions are welcome! One project per PR, placed in the most specific section (kept alphabetical), with a short, factual description. Published apps go in .\nSee CONTRIBUTING.md for the full guidelines and entry formats.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:58:05.449Z",
+    "original_repository": "flet-dev/awesome-flet",
+    "original_repository_sha": "bb36aafeffaa74a38a598ba28a72c5174bb57649",
+    "enhanced_repository": "enhansome/enhansome-flet",
+    "enhanced_repository_description": null,
+    "title": "Awesome flet with stars"
+  }
+}
