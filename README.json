@@ -1,437 +1,459 @@
 {
   "items": [
     {
-      "description": "Articles, tutorials, and videos for learning Flet.",
-      "items": [],
-      "title": "Learning Resources"
-    },
-    {
-      "description": "Flet apps shipped to one or more public app stores.",
-      "items": [],
-      "title": "Published Apps"
-    },
-    {
       "description": "Extensions add new controls and native capabilities by wrapping Flutter packages and platform APIs. See this guide to build your own extensions, then open a PR to this repo to have it listed here.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flet-ads",
+              "description": "Google AdMob ads. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-audio",
+              "description": "Audio playback. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-audio-recorder",
+              "description": "Microphone audio recording. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-camera",
+              "description": "Device camera access. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-charts",
+              "description": "Interactive charts and graphs. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-code-editor",
+              "description": "Code editor with syntax highlighting. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-color-pickers",
+              "description": "Color picker controls. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-datatable2",
+              "description": "DataTable with sticky headers and fixed columns. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-flashlight",
+              "description": "Device torch control. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-geolocator",
+              "description": "GPS position and position streams. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-lottie",
+              "description": "Lottie animations. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-map",
+              "description": "Interactive tile-based maps. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-permission-handler",
+              "description": "Request and check device permissions. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-rive",
+              "description": "Rive animations. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-secure-storage",
+              "description": "Native secure key-value storage. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-spinkit",
+              "description": "Loading spinners. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-video",
+              "description": "Cross-platform video player. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-webview",
+              "description": "In-app WebView. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473670467,
+                "language": "Python",
+                "last_commit": "2026-08-18T21:46:00Z",
+                "owner": "flet-dev",
+                "repo": "flet",
+                "stars": 16601
+              }
+            }
+          ],
+          "description": "Built and actively maintained by the Flet team.",
+          "node_type": "group",
+          "title": "Official Extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "flet_notifications",
+              "description": "Local and scheduled notifications. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961096931,
+                "language": "Dart",
+                "last_commit": "2025-05-10T13:29:33Z",
+                "owner": "Bbalduzz",
+                "repo": "flet_notifications",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-onesignal",
+              "description": "Push notifications and in-app messaging. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 906855596,
+                "language": "Python",
+                "last_commit": "2026-03-11T06:30:41Z",
+                "owner": "brunobrown",
+                "repo": "flet-onesignal",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-dropzone",
+              "description": "Drop zone control that accepts dropping files to your Flet desktop app. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937852629,
+                "language": "Dart",
+                "last_commit": "2026-08-01T12:00:20Z",
+                "owner": "shiena",
+                "repo": "flet-dropzone",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-health",
+              "description": "Read and write health data from Apple HealthKit and Google Health Connect. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 967876363,
+                "language": "Python",
+                "last_commit": "2025-11-07T20:43:51Z",
+                "owner": "brunobrown",
+                "repo": "flet-health",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-gnav-bar",
+              "description": "Google Nav Bar style animated bottom navigation. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1047904252,
+                "language": "HTML",
+                "last_commit": "2026-06-11T15:04:41Z",
+                "owner": "programmersd21",
+                "repo": "flet_gnav_bar",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sparkle_auto_updater",
+              "description": "Push automatic desktop-app updates. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965574702,
+                "language": "Dart",
+                "last_commit": "2025-04-15T07:38:02Z",
+                "owner": "ap4499",
+                "repo": "sparkle_auto_updater",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-blur",
+              "description": "Transparency and blur effects. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 941454185,
+                "language": "Dart",
+                "last_commit": "2026-03-25T17:37:47Z",
+                "owner": "shiena",
+                "repo": "flet-blur",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet_math",
+              "description": "Renders LaTeX and TeX math formulas. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949461550,
+                "language": "Python",
+                "last_commit": "2025-03-19T10:08:25Z",
+                "owner": "Bbalduzz",
+                "repo": "flet_math",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-sherpa-onnx",
+              "description": "On-device speech-to-text. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060133206,
+                "language": "Dart",
+                "last_commit": "2026-05-11T05:05:49Z",
+                "owner": "SamYuan1990",
+                "repo": "flet_sherpa_onnx",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-material-symbols",
+              "description": "Google's Material Symbols icon set for Flet. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1174585656,
+                "language": "Python",
+                "last_commit": "2026-03-06T16:54:03Z",
+                "owner": "Creeper19472",
+                "repo": "flet-material-symbols",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-open-file",
+              "description": "Open files with the device's native handler app. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1018014006,
+                "language": "Dart",
+                "last_commit": "2025-10-05T04:27:10Z",
+                "owner": "Creeper19472",
+                "repo": "flet-open-file",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Built and maintained by the community. These may be experimental, in early development, not actively maintained or incompatible with your Flet version, but they highlight the ecosystem's creativity and potential while further demonstrating Flet's extensibility and power.",
+          "node_type": "group",
+          "title": "Community Extensions"
+        }
+      ],
       "title": "Extensions"
-    },
-    {
-      "description": "Built and actively maintained by the Flet team.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "flet-ads",
-          "description": "Google AdMob ads. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-audio",
-          "description": "Audio playback. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-audio-recorder",
-          "description": "Microphone audio recording. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-camera",
-          "description": "Device camera access. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-charts",
-          "description": "Interactive charts and graphs. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-code-editor",
-          "description": "Code editor with syntax highlighting. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-color-pickers",
-          "description": "Color picker controls. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-datatable2",
-          "description": "DataTable with sticky headers and fixed columns. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-flashlight",
-          "description": "Device torch control. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-geolocator",
-          "description": "GPS position and position streams. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-lottie",
-          "description": "Lottie animations. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-map",
-          "description": "Interactive tile-based maps. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-permission-handler",
-          "description": "Request and check device permissions. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-rive",
-          "description": "Rive animations. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-secure-storage",
-          "description": "Native secure key-value storage. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-spinkit",
-          "description": "Loading spinners. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-video",
-          "description": "Cross-platform video player. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-webview",
-          "description": "In-app WebView. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:47Z",
-            "owner": "flet-dev",
-            "repo": "flet",
-            "stars": 16598
-          }
-        }
-      ],
-      "title": "Official Extensions"
-    },
-    {
-      "description": "Built and maintained by the community. These may be experimental, in early development, not actively maintained or incompatible with your Flet version, but they highlight the ecosystem's creativity and potential while further demonstrating Flet's extensibility and power.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "flet_notifications",
-          "description": "Local and scheduled notifications. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2025-05-10T13:29:33Z",
-            "owner": "Bbalduzz",
-            "repo": "flet_notifications",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-onesignal",
-          "description": "Push notifications and in-app messaging. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-11T06:30:41Z",
-            "owner": "brunobrown",
-            "repo": "flet-onesignal",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-dropzone",
-          "description": "Drop zone control that accepts dropping files to your Flet desktop app. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-01T12:00:20Z",
-            "owner": "shiena",
-            "repo": "flet-dropzone",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-health",
-          "description": "Read and write health data from Apple HealthKit and Google Health Connect. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-07T20:43:51Z",
-            "owner": "brunobrown",
-            "repo": "flet-health",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-gnav-bar",
-          "description": "Google Nav Bar style animated bottom navigation. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-11T15:04:41Z",
-            "owner": "programmersd21",
-            "repo": "flet_gnav_bar",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sparkle_auto_updater",
-          "description": "Push automatic desktop-app updates. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2025-04-15T07:38:02Z",
-            "owner": "ap4499",
-            "repo": "sparkle_auto_updater",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-blur",
-          "description": "Transparency and blur effects. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-03-25T17:37:47Z",
-            "owner": "shiena",
-            "repo": "flet-blur",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet_math",
-          "description": "Renders LaTeX and TeX math formulas. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-19T10:08:25Z",
-            "owner": "Bbalduzz",
-            "repo": "flet_math",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-sherpa-onnx",
-          "description": "On-device speech-to-text. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-05-11T05:05:49Z",
-            "owner": "SamYuan1990",
-            "repo": "flet_sherpa_onnx",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-material-symbols",
-          "description": "Google's Material Symbols icon set for Flet. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-06T16:54:03Z",
-            "owner": "Creeper19472",
-            "repo": "flet-material-symbols",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flet-open-file",
-          "description": "Open files with the device's native handler app. Wraps .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2025-10-05T04:27:10Z",
-            "owner": "Creeper19472",
-            "repo": "flet-open-file",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Community Extensions"
     },
     {
       "description": "Community-made reusable packages, frameworks, and components that extend what you can build with Flet — routing, state management, forms, theming, and UI.",
@@ -443,6 +465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599223703,
             "language": "Python",
             "last_commit": "2024-06-30T14:56:14Z",
             "owner": "SKbarbon",
@@ -457,6 +480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798173616,
             "language": "Python",
             "last_commit": "2024-09-29T17:06:09Z",
             "owner": "Bbalduzz",
@@ -471,6 +495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 741674985,
             "language": "Python",
             "last_commit": "2026-06-06T05:41:25Z",
             "owner": "Daxexs",
@@ -485,6 +510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 989792521,
             "language": "Python",
             "last_commit": "2026-06-09T12:24:32Z",
             "owner": "AllDotPy",
@@ -499,6 +525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 647857987,
             "language": "Python",
             "last_commit": "2024-12-03T20:48:26Z",
             "owner": "flet-dev",
@@ -513,6 +540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611839323,
             "language": "Python",
             "last_commit": "2024-05-04T01:26:48Z",
             "owner": "saurabhwadekar",
@@ -527,6 +555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 587166953,
             "language": "Python",
             "last_commit": "2026-07-27T19:17:45Z",
             "owner": "o0Adrian",
@@ -541,6 +570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714462391,
             "language": "Python",
             "last_commit": "2025-06-22T18:05:39Z",
             "owner": "xzripper",
@@ -555,6 +585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881774301,
             "language": "Python",
             "last_commit": "2025-02-11T12:10:15Z",
             "owner": "LegendaryPistachio",
@@ -569,6 +600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733258769,
             "language": "Python",
             "last_commit": "2024-01-18T18:38:54Z",
             "owner": "Benitmulindwa",
@@ -583,6 +615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894495679,
             "language": "Python",
             "last_commit": "2024-12-17T10:27:31Z",
             "owner": "Bbalduzz",
@@ -597,6 +630,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 577054565,
             "language": "Python",
             "last_commit": "2024-09-12T14:34:09Z",
             "owner": "naderidev",
@@ -611,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737875881,
             "language": "JavaScript",
             "last_commit": "2024-05-25T20:58:20Z",
             "owner": "Benitmulindwa",
@@ -625,6 +660,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 777752282,
             "language": "Python",
             "last_commit": "2024-06-01T12:11:45Z",
             "owner": "50Bytes-dev",
@@ -639,6 +675,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015383219,
             "language": "Python",
             "last_commit": "2025-11-26T01:34:33Z",
             "owner": "brunobrown",
@@ -653,6 +690,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811324117,
             "language": "Python",
             "last_commit": "2025-09-04T13:20:10Z",
             "owner": "fasilwdr",
@@ -667,6 +705,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 716764745,
             "language": "Python",
             "last_commit": "2025-04-22T19:33:41Z",
             "owner": "xzripper",
@@ -681,6 +720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779007074,
             "language": "Python",
             "last_commit": "2024-03-28T21:37:42Z",
             "owner": "50Bytes-dev",
@@ -695,6 +735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 915077992,
             "language": "Python",
             "last_commit": "2025-08-13T02:58:08Z",
             "owner": "osamalzabidi",
@@ -709,6 +750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 839587676,
             "language": "Python",
             "last_commit": "2024-12-10T10:59:10Z",
             "owner": "webtechmoz",
@@ -723,6 +765,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 708114026,
             "language": "Python",
             "last_commit": "2023-10-21T15:17:14Z",
             "owner": "xzripper",
@@ -737,6 +780,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1038269301,
             "language": "Python",
             "last_commit": "2026-07-23T19:39:11Z",
             "owner": "AliAminiCode",
@@ -751,6 +795,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1234137475,
             "language": "Python",
             "last_commit": "2026-05-15T07:07:08Z",
             "owner": "Alisonsantos77",
@@ -765,6 +810,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899669470,
             "language": "Python",
             "last_commit": "2025-08-13T03:01:59Z",
             "owner": "osamalzabidi",
@@ -779,6 +825,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1031216280,
             "language": "Dart",
             "last_commit": "2025-09-14T15:58:01Z",
             "owner": "ReYaNOW",
@@ -793,6 +840,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 928173623,
             "language": "Python",
             "last_commit": "2025-02-06T07:55:13Z",
             "owner": "Duz-Dev",
@@ -807,6 +855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1070621346,
             "language": "Python",
             "last_commit": "2025-12-19T22:21:07Z",
             "owner": "fasilwdr",
@@ -827,6 +876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569258171,
             "language": "Python",
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
@@ -841,6 +891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611817888,
             "language": "Python",
             "last_commit": "2026-06-08T15:40:18Z",
             "owner": "B1lli",
@@ -855,6 +906,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287013150,
             "language": "Python",
             "last_commit": "2026-07-09T16:15:21Z",
             "owner": "sparkmicro",
@@ -869,6 +921,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 645503206,
             "language": "Python",
             "last_commit": "2024-03-05T13:00:33Z",
             "owner": "LineIndent",
@@ -883,6 +936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 571209039,
             "language": "Python",
             "last_commit": "2025-02-15T12:06:00Z",
             "owner": "redromnon",
@@ -897,6 +951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510967297,
             "language": "Python",
             "last_commit": "2025-09-17T11:51:33Z",
             "owner": "sulasoft",
@@ -911,6 +966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600309508,
             "language": "Python",
             "last_commit": "2025-03-20T10:58:12Z",
             "owner": "nbilbo",
@@ -925,6 +981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 910769323,
             "language": "Python",
             "last_commit": "2025-09-28T11:17:16Z",
             "owner": "TonyXdZ",
@@ -939,6 +996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600997549,
             "language": "Python",
             "last_commit": "2023-02-13T06:38:48Z",
             "owner": "makhmud-dev",
@@ -953,6 +1011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 944877200,
             "language": "Python",
             "last_commit": "2025-06-04T00:32:04Z",
             "owner": "Hayashi-Yudai",
@@ -967,6 +1026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1304868041,
             "language": null,
             "last_commit": "2026-07-21T21:59:13Z",
             "owner": "TheAnshulPrakash",
@@ -981,6 +1041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 723409039,
             "language": "Python",
             "last_commit": "2024-01-26T17:50:47Z",
             "owner": "taaaf11",
@@ -995,6 +1056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 724149483,
             "language": "Python",
             "last_commit": "2024-01-26T02:24:07Z",
             "owner": "taaaf11",
@@ -1009,6 +1071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906992081,
             "language": "Python",
             "last_commit": "2025-02-10T15:27:59Z",
             "owner": "UnnatMalik",
@@ -1023,6 +1086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 763063129,
             "language": "JavaScript",
             "last_commit": "2025-02-15T08:21:58Z",
             "owner": "Benitmulindwa",
@@ -1037,6 +1101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899657225,
             "language": "Python",
             "last_commit": "2025-08-13T03:00:09Z",
             "owner": "osamalzabidi",
@@ -1051,6 +1116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 919514101,
             "language": "Python",
             "last_commit": "2025-03-09T12:01:11Z",
             "owner": "jmzdd",
@@ -1065,6 +1131,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126365284,
             "language": "Python",
             "last_commit": "2026-03-18T13:14:07Z",
             "owner": "jorge-lgclabs",
@@ -1085,6 +1152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906190102,
             "language": "Python",
             "last_commit": "2025-02-28T21:01:14Z",
             "owner": "Benitmulindwa",
@@ -1099,6 +1167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1220773489,
             "language": "Python",
             "last_commit": "2026-06-25T13:57:44Z",
             "owner": "Nwokike",
@@ -1113,6 +1182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 978323425,
             "language": "Python",
             "last_commit": "2026-05-27T04:23:25Z",
             "owner": "brunobrown",
@@ -1127,6 +1197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175700874,
             "language": "Python",
             "last_commit": "2026-03-10T06:32:30Z",
             "owner": "brunobrown",
@@ -1141,6 +1212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 928388860,
             "language": "Python",
             "last_commit": "2025-02-15T13:10:03Z",
             "owner": "webtechmoz",
@@ -1150,16 +1222,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "Contributions are welcome! One project per PR, placed in the most specific section (kept alphabetical), with a short, factual description. Published apps go in .\nSee CONTRIBUTING.md for the full guidelines and entry formats.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:28:07.537Z",
+    "last_updated": "2026-08-19T12:27:46.869Z",
     "original_repository": "flet-dev/awesome-flet",
+    "original_repository_id": 716705435,
     "original_repository_sha": "bb36aafeffaa74a38a598ba28a72c5174bb57649",
     "enhanced_repository": "enhansome/enhansome-flet",
     "enhanced_repository_description": null,
