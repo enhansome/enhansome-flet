@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -257,7 +257,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16600
+                "stars": 16603
               }
             }
           ],
@@ -359,6 +359,21 @@
             },
             {
               "node_type": "item",
+              "title": "flet-sherpa-onnx",
+              "description": "On-device speech-to-text. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1060133206,
+                "language": "Dart",
+                "last_commit": "2026-05-11T05:05:49Z",
+                "owner": "SamYuan1990",
+                "repo": "flet_sherpa_onnx",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
               "title": "sparkle_auto_updater",
               "description": "Push automatic desktop-app updates. Wraps .",
               "children": [],
@@ -404,21 +419,6 @@
             },
             {
               "node_type": "item",
-              "title": "flet-sherpa-onnx",
-              "description": "On-device speech-to-text. Wraps .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1060133206,
-                "language": "Dart",
-                "last_commit": "2026-05-11T05:05:49Z",
-                "owner": "SamYuan1990",
-                "repo": "flet_sherpa_onnx",
-                "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
               "title": "flet-material-symbols",
               "description": "Google's Material Symbols icon set for Flet. Wraps .",
               "children": [],
@@ -429,6 +429,21 @@
                 "last_commit": "2026-03-06T16:54:03Z",
                 "owner": "Creeper19472",
                 "repo": "flet-material-symbols",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flet-media-scanner",
+              "description": "Android MediaStore integration for saving, listing, deleting, and scanning videos in the device Gallery without broad storage permissions. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1339748535,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T16:15:33Z",
+                "owner": "fazi-gondal",
+                "repo": "flet-media-scanner",
                 "stars": 0
               }
             },
@@ -881,7 +896,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4730
+            "stars": 4731
           }
         },
         {
@@ -1111,6 +1126,21 @@
         },
         {
           "node_type": "item",
+          "title": "Video Downloader",
+          "description": "Cross-platform desktop application for downloading, managing, and converting media with and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1335199922,
+            "language": "Python",
+            "last_commit": "2026-08-18T06:26:22Z",
+            "owner": "fazi-gondal",
+            "repo": "Video-Downloader",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "flet-timer",
           "description": "Example countdown timer using threads for real-time updates.",
           "children": [],
@@ -1240,10 +1270,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:30:19.095Z",
+    "last_updated": "2026-08-21T17:29:55.444Z",
     "original_repository": "flet-dev/awesome-flet",
     "original_repository_id": 716705435,
-    "original_repository_sha": "05bac452caf9d9cfdd934391e411815d388bc4c7",
+    "original_repository_sha": "71940215dba8b0bac8a21b1c04b463ec62fcbd67",
     "enhanced_repository": "enhansome/enhansome-flet",
     "enhanced_repository_description": null,
     "title": "Awesome flet with stars"
