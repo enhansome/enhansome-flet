@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -167,7 +167,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -197,7 +197,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -257,7 +257,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16603
+                "stars": 16605
               }
             }
           ],
@@ -419,6 +419,21 @@
             },
             {
               "node_type": "item",
+              "title": "flet-media-scanner",
+              "description": "Android MediaStore integration for saving, listing, deleting, and scanning videos in the device Gallery without broad storage permissions. Wraps .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1339748535,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T17:12:32Z",
+                "owner": "fazi-gondal",
+                "repo": "flet-media-scanner",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
               "title": "flet-material-symbols",
               "description": "Google's Material Symbols icon set for Flet. Wraps .",
               "children": [],
@@ -429,21 +444,6 @@
                 "last_commit": "2026-03-06T16:54:03Z",
                 "owner": "Creeper19472",
                 "repo": "flet-material-symbols",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "flet-media-scanner",
-              "description": "Android MediaStore integration for saving, listing, deleting, and scanning videos in the device Gallery without broad storage permissions. Wraps .",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1339748535,
-                "language": "Kotlin",
-                "last_commit": "2026-08-19T16:15:33Z",
-                "owner": "fazi-gondal",
-                "repo": "flet-media-scanner",
                 "stars": 0
               }
             },
@@ -896,7 +896,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4731
+            "stars": 4733
           }
         },
         {
@@ -911,7 +911,7 @@
             "last_commit": "2026-06-08T15:40:18Z",
             "owner": "B1lli",
             "repo": "BillyGPT",
-            "stars": 390
+            "stars": 389
           }
         },
         {
@@ -926,7 +926,7 @@
             "last_commit": "2026-07-09T16:15:21Z",
             "owner": "sparkmicro",
             "repo": "Ki-nTree",
-            "stars": 250
+            "stars": 251
           }
         },
         {
@@ -1156,6 +1156,21 @@
         },
         {
           "node_type": "item",
+          "title": "Passport Photo Studio",
+          "description": "Local-first desktop app for preparing passport photos, replacing backgrounds, generating A4 print sheets, and exporting JPG, PNG, or PDF files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1320255854,
+            "language": "Python",
+            "last_commit": "2026-08-02T15:21:41Z",
+            "owner": "ProfMohsinKhan",
+            "repo": "Passport-size-photo-maker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Bookkeeping Assistant",
           "description": "Small bookkeeping and hourly-rate calculator.",
           "children": [],
@@ -1270,10 +1285,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:29:55.444Z",
+    "last_updated": "2026-08-22T17:21:29.289Z",
     "original_repository": "flet-dev/awesome-flet",
     "original_repository_id": 716705435,
-    "original_repository_sha": "71940215dba8b0bac8a21b1c04b463ec62fcbd67",
+    "original_repository_sha": "5071cdd7e7ed02bd872089931b19c307d9b98ff9",
     "enhanced_repository": "enhansome/enhansome-flet",
     "enhanced_repository_description": null,
     "title": "Awesome flet with stars"
