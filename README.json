@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "description": "Flet apps shipped to one or more public app stores.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Akili",
+          "description": "After-school learning app with a smart tutor, quizzes, homework, and exams. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1226676883,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:13:14Z",
+            "owner": "Nwokike",
+            "repo": "akili-app",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collab Shell",
+          "description": "Runs cloud notebooks and interactive terminals and manages files from a mobile device. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1282471700,
+            "language": "Python",
+            "last_commit": "2026-08-23T20:03:22Z",
+            "owner": "Nwokike",
+            "repo": "CollabShell",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDGS",
+          "description": "Privacy-focused metasearch app for web, image, video, news, book, and webpage content. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1272484474,
+            "language": "Python",
+            "last_commit": "2026-08-19T18:25:17Z",
+            "owner": "Nwokike",
+            "repo": "DDGS",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KTV Player",
+          "description": "Live TV player for your own M3U playlists and custom channels. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1221861439,
+            "language": "Python",
+            "last_commit": "2026-08-17T14:27:52Z",
+            "owner": "Nwokike",
+            "repo": "ktv-player",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sherlock",
+          "description": "Searches for public social media profiles by username across 430+ networks. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1251714393,
+            "language": "Python",
+            "last_commit": "2026-08-23T20:07:43Z",
+            "owner": "Nwokike",
+            "repo": "Sherlock",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Published Apps"
+    },
+    {
       "description": "Extensions add new controls and native capabilities by wrapping Flutter packages and platform APIs. See this guide to build your own extensions, then open a PR to this repo to have it listed here.",
       "items": [
         {
@@ -17,7 +98,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -32,7 +113,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -47,7 +128,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -62,7 +143,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -77,7 +158,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -92,7 +173,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -107,7 +188,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -122,7 +203,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -137,7 +218,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -152,7 +233,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -167,7 +248,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -182,7 +263,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -197,7 +278,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -212,7 +293,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -227,7 +308,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -242,7 +323,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -257,7 +338,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             },
             {
@@ -272,7 +353,7 @@
                 "last_commit": "2026-08-19T17:05:59Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16610
+                "stars": 16613
               }
             }
           ],
@@ -896,7 +977,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4732
+            "stars": 4733
           }
         },
         {
@@ -911,7 +992,7 @@
             "last_commit": "2026-06-08T15:40:18Z",
             "owner": "B1lli",
             "repo": "BillyGPT",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -1043,7 +1124,7 @@
             "archived": false,
             "id": 1288004296,
             "language": "Python",
-            "last_commit": "2026-08-19T16:20:02Z",
+            "last_commit": "2026-08-24T10:23:17Z",
             "owner": "fazi-gondal",
             "repo": "Vidsaver",
             "stars": 5
@@ -1133,7 +1214,7 @@
             "archived": false,
             "id": 1335199922,
             "language": "Python",
-            "last_commit": "2026-08-18T06:26:22Z",
+            "last_commit": "2026-08-24T07:40:09Z",
             "owner": "fazi-gondal",
             "repo": "Video-Downloader",
             "stars": 2
@@ -1232,7 +1313,7 @@
             "last_commit": "2026-08-23T09:38:33Z",
             "owner": "Nwokike",
             "repo": "flet-mcp-server",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -1279,13 +1360,35 @@
             "repo": "pyflet",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flet control wrap",
+              "description": "VS Code extension for wrapping Flet controls inside other controls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782752963,
+                "language": "TypeScript",
+                "last_commit": "2024-04-06T08:54:18Z",
+                "owner": "50Bytes-dev",
+                "repo": "vscode-flet-wrap",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "Editor and IDE plugins for development of Flet apps.",
+          "node_type": "group",
+          "title": "IDE Plugins"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:20:59.113Z",
+    "last_updated": "2026-08-24T14:28:34.308Z",
     "original_repository": "flet-dev/awesome-flet",
     "original_repository_id": 716705435,
     "original_repository_sha": "5071cdd7e7ed02bd872089931b19c307d9b98ff9",
