@@ -977,7 +977,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4733
+            "stars": 4734
           }
         },
         {
@@ -992,7 +992,7 @@
             "last_commit": "2026-06-08T15:40:18Z",
             "owner": "B1lli",
             "repo": "BillyGPT",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -1313,7 +1313,7 @@
             "last_commit": "2026-08-23T09:38:33Z",
             "owner": "Nwokike",
             "repo": "flet-mcp-server",
-            "stars": 16
+            "stars": 17
           }
         },
         {
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:34.308Z",
+    "last_updated": "2026-08-24T17:32:07.815Z",
     "original_repository": "flet-dev/awesome-flet",
     "original_repository_id": 716705435,
     "original_repository_sha": "5071cdd7e7ed02bd872089931b19c307d9b98ff9",
