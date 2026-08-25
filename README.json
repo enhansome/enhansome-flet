@@ -977,7 +977,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4735
+            "stars": 4734
           }
         },
         {
@@ -1214,7 +1214,7 @@
             "archived": false,
             "id": 1335199922,
             "language": "Python",
-            "last_commit": "2026-08-24T07:40:09Z",
+            "last_commit": "2026-08-25T17:13:59Z",
             "owner": "fazi-gondal",
             "repo": "Video-Downloader",
             "stars": 2
@@ -1388,7 +1388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:20.738Z",
+    "last_updated": "2026-08-25T17:32:56.904Z",
     "original_repository": "flet-dev/awesome-flet",
     "original_repository_id": 716705435,
     "original_repository_sha": "5071cdd7e7ed02bd872089931b19c307d9b98ff9",
