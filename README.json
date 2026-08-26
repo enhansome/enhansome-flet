@@ -77,6 +77,21 @@
             "repo": "Sherlock",
             "stars": 6
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Walkertracker",
+          "description": "Privacy-first walking recorder, step counter, and offline navigation assistant. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1330066280,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:46:06Z",
+            "owner": "Twilight0",
+            "repo": "org.walkertracker",
+            "stars": 0
+          }
         }
       ],
       "title": "Published Apps"
@@ -95,10 +110,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -110,10 +125,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -125,10 +140,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -140,10 +155,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -155,10 +170,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -170,10 +185,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -185,10 +200,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -200,10 +215,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -215,10 +230,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -230,10 +245,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -245,10 +260,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -260,10 +275,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -275,10 +290,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -290,10 +305,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -305,10 +320,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -320,10 +335,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -335,10 +350,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             },
             {
@@ -350,10 +365,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:05:59Z",
+                "last_commit": "2026-08-26T15:14:45Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16613
+                "stars": 16616
               }
             }
           ],
@@ -977,7 +992,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4734
+            "stars": 4735
           }
         },
         {
@@ -1124,7 +1139,7 @@
             "archived": false,
             "id": 1288004296,
             "language": "Python",
-            "last_commit": "2026-08-24T10:23:17Z",
+            "last_commit": "2026-08-26T05:32:44Z",
             "owner": "fazi-gondal",
             "repo": "Vidsaver",
             "stars": 5
@@ -1177,6 +1192,21 @@
         },
         {
           "node_type": "item",
+          "title": "Video Downloader",
+          "description": "Cross-platform desktop application for downloading, managing, and converting media with and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1335199922,
+            "language": "Python",
+            "last_commit": "2026-08-25T17:13:59Z",
+            "owner": "fazi-gondal",
+            "repo": "Video-Downloader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Bro-Bot-AI",
           "description": "App for exploring AI chatbot technologies.",
           "children": [],
@@ -1202,21 +1232,6 @@
             "last_commit": "2025-02-15T08:21:58Z",
             "owner": "Benitmulindwa",
             "repo": "organo",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Video Downloader",
-          "description": "Cross-platform desktop application for downloading, managing, and converting media with and .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1335199922,
-            "language": "Python",
-            "last_commit": "2026-08-25T17:13:59Z",
-            "owner": "fazi-gondal",
-            "repo": "Video-Downloader",
             "stars": 2
           }
         },
@@ -1388,10 +1403,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:32:56.904Z",
+    "last_updated": "2026-08-26T19:04:44.739Z",
     "original_repository": "flet-dev/awesome-flet",
     "original_repository_id": 716705435,
-    "original_repository_sha": "5071cdd7e7ed02bd872089931b19c307d9b98ff9",
+    "original_repository_sha": "6e0bdecf0bc1830638437507be4a15f9a8bd7269",
     "enhanced_repository": "enhansome/enhansome-flet",
     "enhanced_repository_description": null,
     "title": "Awesome flet with stars"
