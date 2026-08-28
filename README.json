@@ -92,6 +92,21 @@
             "repo": "org.walkertracker",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Weeknum",
+          "description": "Displays ISO week numbers and date ranges, with date navigation, historical events, and an Android home-screen widget. Android Google Play GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153919999,
+            "language": "Python",
+            "last_commit": "2026-08-27T22:25:31Z",
+            "owner": "Twilight0",
+            "repo": "org.weeknum",
+            "stars": 0
+          }
         }
       ],
       "title": "Published Apps"
@@ -110,10 +125,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -125,10 +140,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -140,10 +155,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -155,10 +170,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -170,10 +185,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -185,10 +200,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -200,10 +215,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -215,10 +230,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -230,10 +245,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -245,10 +260,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -260,10 +275,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -275,10 +290,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -290,10 +305,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -305,10 +320,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -320,10 +335,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -335,10 +350,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -350,10 +365,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             },
             {
@@ -365,10 +380,10 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-27T00:20:56Z",
+                "last_commit": "2026-08-28T01:02:37Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16620
+                "stars": 16621
               }
             }
           ],
@@ -992,7 +1007,7 @@
             "last_commit": "2026-08-08T00:28:24Z",
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4735
+            "stars": 4736
           }
         },
         {
@@ -1282,6 +1297,21 @@
         },
         {
           "node_type": "item",
+          "title": "Flet TTS Demo",
+          "description": "Pure-Python text-to-speech demo using Microsoft Edge neural voices, with streaming playback, voice controls, and MP3 export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1339709784,
+            "language": "Python",
+            "last_commit": "2026-08-19T16:54:35Z",
+            "owner": "Twilight0",
+            "repo": "org.flettts.demo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "PyGem",
           "description": "Adaptation of the board game Splendor.",
           "children": [],
@@ -1403,17 +1433,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:22.320Z",
+    "last_updated": "2026-08-28T01:19:08.658Z",
     "original_repository_info": {
       "archived": false,
       "id": 716705435,
       "language": "Python",
-      "last_commit": "2026-08-26T10:49:42Z",
+      "last_commit": "2026-08-27T21:50:30Z",
       "owner": "flet-dev",
       "repo": "awesome-flet",
       "stars": 283
     },
-    "original_repository_sha": "6e0bdecf0bc1830638437507be4a15f9a8bd7269",
+    "original_repository_sha": "ccf950297fd8cbf6851bd0daf82fbd0178dfe7b6",
     "enhanced_repository": "enhansome/enhansome-flet",
     "enhanced_repository_description": null,
     "title": "Awesome flet with stars"
