@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "After-School Learning App for Everyone",
+            "homepage": "https://play.google.com/store/apps/details?id=ng.kiri.akili",
             "id": 1226676883,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T18:13:14Z",
+            "open_issues": 0,
             "owner": "Nwokike",
             "repo": "akili-app",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -26,12 +31,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CollabShell: Run Python, train machine learning models, and manage Jupyter runtimes on cloud GPUs and TPUs directly from your mobile phone. A fast, friendly, and powerful handheld developer workbench. Built with Flet.",
+            "homepage": null,
             "id": 1282471700,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T20:03:22Z",
+            "open_issues": 0,
             "owner": "Nwokike",
             "repo": "CollabShell",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "android",
+              "colab-client",
+              "data-science",
+              "developer-tools",
+              "flet",
+              "gpu-computing",
+              "jupyter-notebook",
+              "machine-learning",
+              "mobile-coding",
+              "python",
+              "tpu"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -42,12 +64,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metasearch across 14 engines (DuckDuckGo, Google, Brave, Bing, Yahoo, Yandex, Startpage, Wikipedia, and more) with full privacy. Built with Flet for Android.",
+            "homepage": null,
             "id": 1272484474,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T18:25:17Z",
+            "open_issues": 0,
             "owner": "Nwokike",
             "repo": "DDGS",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -58,12 +85,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightning-fast TV player built for seamless network streaming and fluid user control.",
+            "homepage": "https://play.google.com/store/apps/details?id=ng.kiri.ktvplayer",
             "id": 1221861439,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T14:27:52Z",
+            "open_issues": 0,
             "owner": "Nwokike",
             "repo": "ktv-player",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "android",
+              "flet",
+              "freetvchannels",
+              "iptv",
+              "m3u",
+              "m3u8",
+              "python",
+              "stream",
+              "tv"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -74,12 +116,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sherlock: Hunt down social media accounts by username across 400+ networks. Built with Python and Flet.",
+            "homepage": null,
             "id": 1251714393,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-23T20:07:43Z",
+            "open_issues": 0,
             "owner": "Nwokike",
             "repo": "Sherlock",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "account-discovery",
+              "android",
+              "asyncio",
+              "cross-platform",
+              "desktop-app",
+              "flet",
+              "httpx",
+              "mobile-app",
+              "osint",
+              "python",
+              "search-engine",
+              "sherlock",
+              "social-media-search",
+              "ui",
+              "username-search",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -90,12 +154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1330066280,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-17T23:46:06Z",
+            "open_issues": 0,
             "owner": "Twilight0",
             "repo": "org.walkertracker",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -106,12 +175,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weeknum app displays your current week. You can also change week display on the fly.",
+            "homepage": null,
             "id": 1153919999,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:25:31Z",
+            "open_issues": 0,
             "owner": "Twilight0",
             "repo": "org.weeknum",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "android",
+              "flet",
+              "flet-app",
+              "flet-gui",
+              "python",
+              "smartphone"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         }
@@ -130,12 +211,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -146,12 +241,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -162,12 +271,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -178,12 +301,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -194,12 +331,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -210,12 +361,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -226,12 +391,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -242,12 +421,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -258,12 +451,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -274,12 +481,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -290,12 +511,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -306,12 +541,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -322,12 +571,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -338,12 +601,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -354,12 +631,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -370,12 +661,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -386,12 +691,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -402,12 +721,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+                "homepage": "https://flet.dev",
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T19:44:15Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:49:16Z",
+                "open_issues": 346,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16623
+                "stars": 16623,
+                "topics": [
+                  "android",
+                  "cross-platform",
+                  "desktop",
+                  "flutter",
+                  "ios",
+                  "python",
+                  "server-driven-ui",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             }
@@ -425,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local notifications in flet.",
+                "homepage": null,
                 "id": 961096931,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2025-05-10T13:29:33Z",
+                "open_issues": 2,
                 "owner": "Bbalduzz",
                 "repo": "flet_notifications",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -441,12 +779,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flet OneSignal is an extension that integrates the OneSignal Flutter SDK with Flet applications.",
+                "homepage": "https://brunobrown.github.io/flet-onesignal/",
                 "id": 906855596,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-11T06:30:41Z",
+                "open_issues": 0,
                 "owner": "brunobrown",
                 "repo": "flet-onesignal",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "extension",
+                  "flet",
+                  "flet-extension",
+                  "flutter",
+                  "mobile",
+                  "mobile-app",
+                  "onesignal",
+                  "onesignal-notifications",
+                  "package",
+                  "python",
+                  "service"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -457,12 +812,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a DropZone control that accepts dropped files",
+                "homepage": "https://pypi.org/project/flet-dropzone/",
                 "id": 937852629,
                 "language": "Dart",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T12:00:20Z",
+                "open_issues": 0,
                 "owner": "shiena",
                 "repo": "flet-dropzone",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "flet",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -473,12 +836,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flet-Health is an extension of the Flutter health package for Python/Flet. It allows integration with health data on both Google Health Connect (Android) and Apple HealthKit (iOS).",
+                "homepage": null,
                 "id": 967876363,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-07T20:43:51Z",
+                "open_issues": 0,
                 "owner": "brunobrown",
                 "repo": "flet-health",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "extension",
+                  "flet",
+                  "flet-extension",
+                  "flutter",
+                  "mobile",
+                  "mobile-app",
+                  "package",
+                  "python",
+                  "service"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -489,12 +867,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flet Google Nav Bar Control",
+                "homepage": "https://pro-grammer-sd.github.io/flet_gnav_bar/",
                 "id": 1047904252,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-06-11T15:04:41Z",
+                "open_issues": 0,
                 "owner": "programmersd21",
                 "repo": "flet_gnav_bar",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cool",
+                  "dart",
+                  "dynamic",
+                  "flet",
+                  "flet-extension",
+                  "flutter",
+                  "gh-pages",
+                  "google",
+                  "gui",
+                  "lib",
+                  "library",
+                  "mkdocs",
+                  "msvc",
+                  "navbar",
+                  "python",
+                  "transitive",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -505,12 +906,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "flet_sherpa_onnx an ASR/STT library for flet basing on sherpa-onnx",
+                "homepage": "https://zread.ai/SamYuan1990/flet_sherpa_onnx",
                 "id": 1060133206,
                 "language": "Dart",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-11T05:05:49Z",
+                "open_issues": 6,
                 "owner": "SamYuan1990",
                 "repo": "flet_sherpa_onnx",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "asr",
+                  "flet",
+                  "onnx",
+                  "sherpa-onnx",
+                  "stt"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -521,12 +933,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A package for Flet which enables automatic updates on MacOS using Sparkle.",
+                "homepage": null,
                 "id": 965574702,
                 "language": "Dart",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-04-15T07:38:02Z",
+                "open_issues": 0,
                 "owner": "ap4499",
                 "repo": "sparkle_auto_updater",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -537,12 +954,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adding nice transparency effect to your Flet App",
+                "homepage": "https://pypi.org/project/flet-blur/",
                 "id": 941454185,
                 "language": "Dart",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-25T17:37:47Z",
+                "open_issues": 0,
                 "owner": "shiena",
                 "repo": "flet-blur",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "flet",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -553,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "render LaTex formulas in flet",
+                "homepage": null,
                 "id": 949461550,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-19T10:08:25Z",
+                "open_issues": 1,
                 "owner": "Bbalduzz",
                 "repo": "flet_math",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -569,12 +999,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flet extension for Android MediaStore integration — save, list, and delete videos in the device Gallery without requiring broad storage permissions.",
+                "homepage": "https://pypi.org/project/flet-media-scanner/",
                 "id": 1339748535,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2026-08-22T17:12:32Z",
+                "open_issues": 0,
                 "owner": "fazi-gondal",
                 "repo": "flet-media-scanner",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "flet",
+                  "flet-app",
+                  "flet-dev",
+                  "flet-extension",
+                  "flet-python",
+                  "flutter"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -585,12 +1027,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extension that introduces Material Symbols to Flet, using the `material_symbols_icons` package.",
+                "homepage": null,
                 "id": 1174585656,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-06T16:54:03Z",
+                "open_issues": 0,
                 "owner": "Creeper19472",
                 "repo": "flet-material-symbols",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             },
@@ -601,12 +1048,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A service created for the Flet framework using the `open_file` package that allows applications to gracefully open specified files on mobile devices.",
+                "homepage": null,
                 "id": 1018014006,
                 "language": "Dart",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-05T04:27:10Z",
+                "open_issues": 0,
                 "owner": "Creeper19472",
                 "repo": "flet-open-file",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "flet-extension",
+                  "mobile"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             }
@@ -628,12 +1083,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A UI-Builder that help programmers to build the front-end without coding it.",
+            "homepage": null,
             "id": 599223703,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-30T14:56:14Z",
+            "open_issues": 12,
             "owner": "SKbarbon",
             "repo": "Flet_StoryBoard",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "flet",
+              "python",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -644,12 +1108,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sharp and modern components library for Flet",
+            "homepage": "https://fletmint-showcase.fly.dev",
             "id": 798173616,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-29T17:06:09Z",
+            "open_issues": 4,
             "owner": "Bbalduzz",
             "repo": "fletmint",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "components",
+              "dark-theme",
+              "flet",
+              "light-theme"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -660,12 +1134,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥User-friendly add-on package for Flet, offering a cleaner code structure with numerous customizable features like JWT, router, decorators, middleware and more.",
+            "homepage": "https://daxexs.github.io/flet-easy/",
             "id": 741674985,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-06T05:41:25Z",
+            "open_issues": 8,
             "owner": "Daxexs",
             "repo": "flet-easy",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "flet",
+              "flet-easy",
+              "flet-easy-fastapi",
+              "flet-gui",
+              "flet-jwt",
+              "flet-middleware",
+              "flet-route",
+              "flet-routing",
+              "flet-web",
+              "flutter"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -676,12 +1166,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source GetX-inspired Python Framework for Building Reactive, Cross-Platform Apps with Flet.",
+            "homepage": "https://alldotpy.github.io/FletX/",
             "id": 989792521,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-09T12:24:32Z",
+            "open_issues": 4,
             "owner": "AllDotPy",
             "repo": "FletX",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "devtools",
+              "flet",
+              "flet-app",
+              "flet-dev",
+              "flet-python",
+              "flet-routing",
+              "gui-framework",
+              "gui-programming",
+              "multi-platform",
+              "open-source",
+              "python",
+              "python-for-android",
+              "python-gui"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -692,12 +1201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flet controls written in Python by community",
+            "homepage": null,
             "id": 647857987,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-03T20:48:26Z",
+            "open_issues": 9,
             "owner": "flet-dev",
             "repo": "flet-contrib",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -708,12 +1222,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplest way of flet routing",
+            "homepage": null,
             "id": 611839323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-04T01:26:48Z",
+            "open_issues": 4,
             "owner": "saurabhwadekar",
             "repo": "flet_route",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "flet",
+              "flet-architecture",
+              "flet-design-pattern",
+              "flet-dev",
+              "flet-route",
+              "flet-routing",
+              "python",
+              "routing"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -724,12 +1252,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[DEPRECATED PROJECT]",
+            "homepage": null,
             "id": 587166953,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-27T19:17:45Z",
+            "open_issues": 2,
             "owner": "o0Adrian",
             "repo": "flet-mvc",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -740,12 +1273,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡⚓ Minimalist, fast, and effective navigation/routing library for Flet applications.",
+            "homepage": "https://github.com/xzripper/flet_navigator",
             "id": 714462391,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-22T18:05:39Z",
+            "open_issues": 0,
             "owner": "xzripper",
             "repo": "flet_navigator",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "flet",
+              "flet-navigator",
+              "navigator",
+              "python3",
+              "router"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -756,12 +1300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a repository for developing custom components, custom composite components, custom user interface templates, custom animation templates, and custom page element effects using the Flet framework.这是一个使用Flet框架开发自定义组件、自定义组合组件、自定义用户UI界面模板、自定义动画模板和自定义页面元素特效等自定义模板的存储库。",
+            "homepage": null,
             "id": 881774301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-11T12:10:15Z",
+            "open_issues": 1,
             "owner": "LegendaryPistachio",
             "repo": "FletCustomRepo",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -772,12 +1321,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FletifyHTML is a versatile Python tool designed to convert HTML content into Flet code. ",
+            "homepage": null,
             "id": 733258769,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-18T18:38:54Z",
+            "open_issues": 0,
             "owner": "Benitmulindwa",
             "repo": "FletifyHTML",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "design",
+              "flet",
+              "flet-dev",
+              "fletifyhtml",
+              "html5",
+              "python",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -788,12 +1350,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fluent design widgets library based on winui3 for flet",
+            "homepage": null,
             "id": 894495679,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-17T10:27:31Z",
+            "open_issues": 3,
             "owner": "Bbalduzz",
             "repo": "fluentflet",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "flet",
+              "fluent",
+              "gui",
+              "python",
+              "winui3"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -804,12 +1377,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "simple carousel sliders for flet framework",
+            "homepage": null,
             "id": 577054565,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-12T14:34:09Z",
+            "open_issues": 2,
             "owner": "naderidev",
             "repo": "flet-carousel",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "carousel",
+              "carousel-slider",
+              "flet",
+              "python",
+              "slider",
+              "slidershow"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -820,12 +1405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate flet ui code, for Neumorphic Design",
+            "homepage": "https://neumoflet.onrender.com",
             "id": 737875881,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-25T20:58:20Z",
+            "open_issues": 0,
             "owner": "Benitmulindwa",
             "repo": "neumoflet",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -836,12 +1426,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastAPI-like routing for Flet",
+            "homepage": null,
             "id": 777752282,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-01T12:11:45Z",
+            "open_issues": 0,
             "owner": "50Bytes-dev",
             "repo": "flet-router",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "flet",
+              "flet-design-pattern",
+              "flet-dev",
+              "flet-route",
+              "flet-routing",
+              "python",
+              "routing"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -852,12 +1455,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flet ASP (Flet Atomic State Pattern) is a reactive state management library for Flet, bringing atom-based architecture and separation of concerns into Python apps — inspired by Flutter's Riverpod and ASP.",
+            "homepage": null,
             "id": 1015383219,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-26T01:34:33Z",
+            "open_issues": 0,
             "owner": "brunobrown",
             "repo": "flet-asp",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "asp",
+              "flet",
+              "flet-dev",
+              "package",
+              "python",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -868,12 +1483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Model-based router for Flet applications that simplifies the creation of multi-page applications.",
+            "homepage": "https://pypi.org/project/flet-model/",
             "id": 811324117,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-04T13:20:10Z",
+            "open_issues": 0,
             "owner": "fasilwdr",
             "repo": "Flet-Model",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -884,12 +1504,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flet ReStyle.",
+            "homepage": "https://github.com/xzripper/flet_restyle/",
             "id": 716764745,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-22T19:33:41Z",
+            "open_issues": 0,
             "owner": "xzripper",
             "repo": "flet_restyle",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "flet",
+              "flet-dev",
+              "restyle",
+              "theme",
+              "themes",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -900,12 +1532,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Form validation for Flet app",
+            "homepage": null,
             "id": 779007074,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-28T21:37:42Z",
+            "open_issues": 0,
             "owner": "50Bytes-dev",
             "repo": "flet-form",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "flet",
+              "flet-dev",
+              "flet-form",
+              "flet-validation",
+              "flet-validator",
+              "form",
+              "form-validation",
+              "validation",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -916,12 +1563,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a custom Flet control for managing multiple pages with smooth animations.",
+            "homepage": null,
             "id": 915077992,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-13T02:58:08Z",
+            "open_issues": 0,
             "owner": "osamalzabidi",
             "repo": "flet-stacked",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "flet",
+              "navigation",
+              "pages",
+              "route",
+              "toolkit",
+              "tools",
+              "ui",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -932,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Criação de interface para exibir notificações modernas",
+            "homepage": null,
             "id": 839587676,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-10T10:59:10Z",
+            "open_issues": 0,
             "owner": "webtechmoz",
             "repo": "flet-toast",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -948,12 +1614,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flet Progress Bar Value Calculator.",
+            "homepage": "https://github.com/xzripper/flet_pb_v_calc",
             "id": 708114026,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-21T15:17:14Z",
+            "open_issues": 0,
             "owner": "xzripper",
             "repo": "flet_pb_v_calc",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "flet",
+              "python",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -964,12 +1639,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flet Persian DatePicker: Advanced Shamsi/Jalali Date Widget (2025 Release)  Discover a cutting-edge Persian (Shamsi) DatePicker widget designed for Flet, launched in 2025! This powerful Flet Persian DatePicker offers seamless navigation, stunning animations, and full RTL support with Persian numerals, making it ideal for modern Persian apps",
+            "homepage": null,
             "id": 1038269301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T19:39:11Z",
+            "open_issues": 0,
             "owner": "AliAminiCode",
             "repo": "flet-persian-datepicker",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "datepicker",
+              "felt-widget",
+              "flet",
+              "flet-gui",
+              "gui",
+              "jalali",
+              "persian-datepicker",
+              "python",
+              "shamsi",
+              "shamsi-calendar"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -980,12 +1671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1234137475,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-15T07:07:08Z",
+            "open_issues": 0,
             "owner": "Alisonsantos77",
             "repo": "flet-wizards",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -996,12 +1692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "help the developer to get many colors without remembering their hex value, and I think it's helpful to get the color with names this will be clear in the code instead hex value!",
+            "homepage": null,
             "id": 899669470,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-13T03:01:59Z",
+            "open_issues": 0,
             "owner": "osamalzabidi",
             "repo": "flet-wcolors",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1012,12 +1713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1031216280,
             "language": "Dart",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-14T15:58:01Z",
+            "open_issues": 0,
             "owner": "ReYaNOW",
             "repo": "flet-cacheimg",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1028,12 +1734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 928173623,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-06T07:55:13Z",
+            "open_issues": 0,
             "owner": "Duz-Dev",
             "repo": "flet_component",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1044,12 +1755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, intuitive routing with automatic view stacking for Flet applications.",
+            "homepage": "https://pypi.org/project/flet-stack",
             "id": 1070621346,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-19T22:21:07Z",
+            "open_issues": 1,
             "owner": "fasilwdr",
             "repo": "flet-stack",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         }
@@ -1066,12 +1782,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。",
+            "homepage": "https://moshangwangluo.com",
             "id": 569258171,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T00:28:24Z",
+            "open_issues": 3,
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4736
+            "stars": 4736,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1082,12 +1803,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Maintenance-mode desktop ChatGPT client built with Flet, kept as a small open-source archive with smoke and startup checks.",
+            "homepage": null,
             "id": 611817888,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-08T15:40:18Z",
+            "open_issues": 0,
             "owner": "B1lli",
             "repo": "BillyGPT",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "chatgpt",
+              "chatgpt-api",
+              "flet",
+              "flet-dev",
+              "prompt",
+              "prompt-engineering",
+              "prompt-tuning"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1098,12 +1832,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast part creation for KiCad and InvenTree",
+            "homepage": null,
             "id": 287013150,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-09T16:15:21Z",
+            "open_issues": 22,
             "owner": "sparkmicro",
             "repo": "Ki-nTree",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "digi-key",
+              "flet",
+              "gui",
+              "inventree",
+              "ki-ntree",
+              "kicad",
+              "kicad-symbol",
+              "library",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1114,12 +1863,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A list of applications built with Flet library. ",
+            "homepage": null,
             "id": 645503206,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-05T13:00:33Z",
+            "open_issues": 4,
             "owner": "LineIndent",
             "repo": "flet_projects",
-            "stars": 236
+            "stars": 236,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1130,12 +1884,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight GUI backup manager for Apple iPhone and iPad on Linux",
+            "homepage": null,
             "id": 571209039,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-15T12:06:00Z",
+            "open_issues": 7,
             "owner": "redromnon",
             "repo": "iBackep",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "backup",
+              "flet",
+              "flutter",
+              "gui",
+              "iphone",
+              "libimobiledevice",
+              "linux",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1146,12 +1914,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amacapy is a software that does web scraping to the Amazon website and publishes them on Telegram, searches the products by the keyword entered or the direct link of the product. Then you can publish these products on Telegram in a certain time.  The technologies used were Flet, Beautiful Soup and Python. ",
+            "homepage": null,
             "id": 510967297,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-17T11:51:33Z",
+            "open_issues": 10,
             "owner": "sulasoft",
             "repo": "Amacapy-Bot-Telegram-Amazon-Affiliates",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "amazon",
+              "beautifulsoup4",
+              "flet",
+              "flet-dev",
+              "pandas-dataframe",
+              "python",
+              "telegram",
+              "telegram-bot",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1162,12 +1945,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using flet and SQLAlchemy",
+            "homepage": null,
             "id": 600309508,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-20T10:58:12Z",
+            "open_issues": 0,
             "owner": "nbilbo",
             "repo": "flet-alchemy",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "flet",
+              "python3",
+              "sqlalchemy"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1178,12 +1970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate flet dev app with multiple pages and basic functionalities like login and sign up and home page",
+            "homepage": null,
             "id": 910769323,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-28T11:17:16Z",
+            "open_issues": 0,
             "owner": "TonyXdZ",
             "repo": "flet-base",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1194,12 +1991,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Game Solitaire created on Python flet",
+            "homepage": null,
             "id": 600997549,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-13T06:38:48Z",
+            "open_issues": 0,
             "owner": "makhmud-dev",
             "repo": "Solitaire-on-python",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1210,12 +2012,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable AI chat application powered by Flet.",
+            "homepage": null,
             "id": 944877200,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-04T00:32:04Z",
+            "open_issues": 0,
             "owner": "Hayashi-Yudai",
             "repo": "aichat",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "claude",
+              "gemini",
+              "llm",
+              "localllm",
+              "mcp",
+              "mcp-client",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1226,12 +2041,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pasting a link, downloading, viewing saved videos, and deleting downloads.",
+            "homepage": "https://fazi-gondal.github.io/Vidsaver/",
             "id": 1288004296,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-26T05:32:44Z",
+            "open_issues": 0,
             "owner": "fazi-gondal",
             "repo": "Vidsaver",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "flet",
+              "flet-app",
+              "flet-dev",
+              "flutter",
+              "pyhton",
+              "social-media",
+              "socialmediadownloader",
+              "yt-dlp"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1242,12 +2071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1304868041,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-21T21:59:13Z",
+            "open_issues": 0,
             "owner": "TheAnshulPrakash",
             "repo": "PrePaste",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1258,12 +2092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A calculator app in python written with flet framework.",
+            "homepage": null,
             "id": 723409039,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-26T17:50:47Z",
+            "open_issues": 0,
             "owner": "taaaf11",
             "repo": "Calculator",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1274,12 +2113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stopwatch in python using flet framework.",
+            "homepage": null,
             "id": 724149483,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-26T02:24:07Z",
+            "open_issues": 0,
             "owner": "taaaf11",
             "repo": "Simple-Stopwatch",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1290,12 +2134,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced cross-platform video downloader — Python + Flet desktop app powered by yt-dlp and FFmpeg. Playlists, format picker, conversions, download queue and history. Ships for macOS, Windows and Linux.",
+            "homepage": null,
             "id": 1335199922,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:13:59Z",
+            "open_issues": 0,
             "owner": "fazi-gondal",
             "repo": "Video-Downloader",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "converter",
+              "downloader",
+              "ffmpeg",
+              "ffmpeg-gui",
+              "ffmpeg-wrapper",
+              "flet",
+              "flet-app",
+              "flet-dev",
+              "flet-gui",
+              "flutter",
+              "flutter-app",
+              "flutter-apps",
+              "flutterdesktop",
+              "python",
+              "social-media",
+              "socialmediadownloader",
+              "yt-dlp",
+              "yt-downloader",
+              "ytdl"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1306,12 +2175,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a AI chat bots made with Ollama LLM using LLama3 model and langchain and other chatbot made using Streamlit and GEMINI 1.5 flash",
+            "homepage": null,
             "id": 906992081,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-10T15:27:59Z",
+            "open_issues": 0,
             "owner": "UnnatMalik",
             "repo": "CHAT-BOT",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "chatbot",
+              "flet",
+              "gemini-api",
+              "llama3",
+              "llms",
+              "ollama",
+              "python",
+              "streamlit"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1322,12 +2205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Chemical compounds structure from their IUPAC names",
+            "homepage": null,
             "id": 763063129,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-15T08:21:58Z",
+            "open_issues": 0,
             "owner": "Benitmulindwa",
             "repo": "organo",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1338,12 +2226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It demonstrates how to create a countdown timer using threading for real-time display updates.",
+            "homepage": null,
             "id": 899657225,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-13T03:00:09Z",
+            "open_issues": 0,
             "owner": "osamalzabidi",
             "repo": "flet-timer",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1354,12 +2247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1320255854,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-02T15:21:41Z",
+            "open_issues": 0,
             "owner": "ProfMohsinKhan",
             "repo": "Passport-size-photo-maker",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1370,12 +2268,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Flet开发的小型记账应用",
+            "homepage": null,
             "id": 919514101,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-09T12:01:11Z",
+            "open_issues": 0,
             "owner": "jmzdd",
             "repo": "Bookkeeping-Assistant",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "flet",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1386,12 +2292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure-Python Flet demo application with real-time Microsoft Edge Neural Text-to-Speech",
+            "homepage": null,
             "id": 1339709784,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T16:54:35Z",
+            "open_issues": 0,
             "owner": "Twilight0",
             "repo": "org.flettts.demo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1402,12 +2313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adaptation of Splendor",
+            "homepage": null,
             "id": 1126365284,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-18T13:14:07Z",
+            "open_issues": 0,
             "owner": "jorge-lgclabs",
             "repo": "PyGem",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         }
@@ -1424,12 +2340,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Flet UI from Figma designs",
+            "homepage": null,
             "id": 906190102,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-28T21:01:14Z",
+            "open_issues": 1,
             "owner": "Benitmulindwa",
             "repo": "FigmaFlet",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "code-generation",
+              "convert",
+              "drag-and-drop",
+              "easy",
+              "easy-to-use",
+              "fast",
+              "figma",
+              "flet",
+              "flet-gui",
+              "flet-python",
+              "python",
+              "python-library",
+              "python-script",
+              "ui",
+              "ui-design"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1440,12 +2377,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol (MCP) server that dynamically fetches and serves official Flet resources to AI agents, including documentation, controls, packages, and ecosystem components.",
+            "homepage": "https://pypi.org/project/flet-mcp-server/",
             "id": 1220773489,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T09:38:33Z",
+            "open_issues": 0,
             "owner": "Nwokike",
             "repo": "flet-mcp-server",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "ai-agents",
+              "ai-assistants",
+              "antigravity",
+              "claude-desktop",
+              "cursor-ide",
+              "developer-tools",
+              "documentation-generator",
+              "flet",
+              "flet-app",
+              "flet-components",
+              "llm-tools",
+              "mcp",
+              "model-context-protocol",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1456,12 +2413,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool that scaffolds Flet extension packages from Flutter packages, with auto-generated Python controls, Dart bridge code, type mappings, and event handlers.",
+            "homepage": "https://brunobrown.github.io/flet-pkg/",
             "id": 978323425,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-27T04:23:25Z",
+            "open_issues": 0,
             "owner": "brunobrown",
             "repo": "flet-pkg",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cli",
+              "cli-tool",
+              "flet",
+              "flet-dev",
+              "package",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1472,12 +2441,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool that automatically injects fully customizable splash screens into Flet apps during the Flutter build process. Configure once in pyproject.toml, build with fs-build apk, and your app launches with a beautiful custom splash.",
+            "homepage": null,
             "id": 1175700874,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-10T06:32:30Z",
+            "open_issues": 0,
             "owner": "brunobrown",
             "repo": "flet-splash",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cli",
+              "cli-tool",
+              "flet",
+              "flet-dev",
+              "package",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1488,12 +2469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for generating and managing web projects using Flet",
+            "homepage": null,
             "id": 928388860,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-15T13:10:03Z",
+            "open_issues": 0,
             "owner": "webtechmoz",
             "repo": "pyflet",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -1506,12 +2492,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhance your Flet development experience in Visual Studio Code by easily wrapping selections of Flet code within a Control.",
+                "homepage": null,
                 "id": 782752963,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-06T08:54:18Z",
+                "open_issues": 0,
                 "owner": "50Bytes-dev",
                 "repo": "vscode-flet-wrap",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "flet",
+                  "flet-dev",
+                  "flet-extension",
+                  "vscode",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-29T00:52:51.712Z"
             }
@@ -1525,15 +2522,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:52:51.712Z",
+    "last_updated": "2026-08-29T04:49:35.750Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⭐ An awesome list that curates the best Flet extensions, libraries, tools, tutorials, articles and more.",
+      "homepage": null,
       "id": 716705435,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-27T21:50:30Z",
+      "open_issues": 0,
       "owner": "flet-dev",
       "repo": "awesome-flet",
-      "stars": 283
+      "stars": 283,
+      "topics": [
+        "awesome-flet",
+        "awesome-list",
+        "flet",
+        "flet-dev",
+        "python"
+      ]
     },
     "original_repository_sha": "ccf950297fd8cbf6851bd0daf82fbd0178dfe7b6",
     "enhanced_repository": "enhansome/enhansome-flet",
