@@ -16,7 +16,8 @@
             "owner": "Nwokike",
             "repo": "akili-app",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-23T20:03:22Z",
             "owner": "Nwokike",
             "repo": "CollabShell",
-            "stars": 4
-          }
+            "stars": 5
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Nwokike",
             "repo": "DDGS",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Nwokike",
             "repo": "ktv-player",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Nwokike",
             "repo": "Sherlock",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Twilight0",
             "repo": "org.walkertracker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Twilight0",
             "repo": "org.weeknum",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         }
       ],
       "title": "Published Apps"
@@ -125,11 +132,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -140,11 +148,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -155,11 +164,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -170,11 +180,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -185,11 +196,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -200,11 +212,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -215,11 +228,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -230,11 +244,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -245,11 +260,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -260,11 +276,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -275,11 +292,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -290,11 +308,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -305,11 +324,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -320,11 +340,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -335,11 +356,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -350,11 +372,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -365,11 +388,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -380,11 +404,12 @@
                 "archived": false,
                 "id": 473670467,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:02:37Z",
+                "last_commit": "2026-08-28T19:44:15Z",
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 16621
-              }
+                "stars": 16623
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             }
           ],
           "description": "Built and actively maintained by the Flet team.",
@@ -406,7 +431,8 @@
                 "owner": "Bbalduzz",
                 "repo": "flet_notifications",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "brunobrown",
                 "repo": "flet-onesignal",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "shiena",
                 "repo": "flet-dropzone",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "brunobrown",
                 "repo": "flet-health",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "programmersd21",
                 "repo": "flet_gnav_bar",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -481,7 +511,8 @@
                 "owner": "SamYuan1990",
                 "repo": "flet_sherpa_onnx",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -496,7 +527,8 @@
                 "owner": "ap4499",
                 "repo": "sparkle_auto_updater",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -511,7 +543,8 @@
                 "owner": "shiena",
                 "repo": "flet-blur",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -526,7 +559,8 @@
                 "owner": "Bbalduzz",
                 "repo": "flet_math",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -541,7 +575,8 @@
                 "owner": "fazi-gondal",
                 "repo": "flet-media-scanner",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -556,7 +591,8 @@
                 "owner": "Creeper19472",
                 "repo": "flet-material-symbols",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             },
             {
               "node_type": "item",
@@ -571,7 +607,8 @@
                 "owner": "Creeper19472",
                 "repo": "flet-open-file",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             }
           ],
           "description": "Built and maintained by the community. These may be experimental, in early development, not actively maintained or incompatible with your Flet version, but they highlight the ecosystem's creativity and potential while further demonstrating Flet's extensibility and power.",
@@ -597,7 +634,8 @@
             "owner": "SKbarbon",
             "repo": "Flet_StoryBoard",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -612,7 +650,8 @@
             "owner": "Bbalduzz",
             "repo": "fletmint",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -627,7 +666,8 @@
             "owner": "Daxexs",
             "repo": "flet-easy",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -642,7 +682,8 @@
             "owner": "AllDotPy",
             "repo": "FletX",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -657,7 +698,8 @@
             "owner": "flet-dev",
             "repo": "flet-contrib",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -672,7 +714,8 @@
             "owner": "saurabhwadekar",
             "repo": "flet_route",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -687,7 +730,8 @@
             "owner": "o0Adrian",
             "repo": "flet-mvc",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -702,7 +746,8 @@
             "owner": "xzripper",
             "repo": "flet_navigator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -717,7 +762,8 @@
             "owner": "LegendaryPistachio",
             "repo": "FletCustomRepo",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -732,7 +778,8 @@
             "owner": "Benitmulindwa",
             "repo": "FletifyHTML",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -747,7 +794,8 @@
             "owner": "Bbalduzz",
             "repo": "fluentflet",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -762,7 +810,8 @@
             "owner": "naderidev",
             "repo": "flet-carousel",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -777,7 +826,8 @@
             "owner": "Benitmulindwa",
             "repo": "neumoflet",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -792,7 +842,8 @@
             "owner": "50Bytes-dev",
             "repo": "flet-router",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -807,7 +858,8 @@
             "owner": "brunobrown",
             "repo": "flet-asp",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -822,7 +874,8 @@
             "owner": "fasilwdr",
             "repo": "Flet-Model",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -837,7 +890,8 @@
             "owner": "xzripper",
             "repo": "flet_restyle",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -852,7 +906,8 @@
             "owner": "50Bytes-dev",
             "repo": "flet-form",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -867,7 +922,8 @@
             "owner": "osamalzabidi",
             "repo": "flet-stacked",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -882,7 +938,8 @@
             "owner": "webtechmoz",
             "repo": "flet-toast",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -897,7 +954,8 @@
             "owner": "xzripper",
             "repo": "flet_pb_v_calc",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -912,7 +970,8 @@
             "owner": "AliAminiCode",
             "repo": "flet-persian-datepicker",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -927,7 +986,8 @@
             "owner": "Alisonsantos77",
             "repo": "flet-wizards",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -942,7 +1002,8 @@
             "owner": "osamalzabidi",
             "repo": "flet-wcolors",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -957,7 +1018,8 @@
             "owner": "ReYaNOW",
             "repo": "flet-cacheimg",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -972,7 +1034,8 @@
             "owner": "Duz-Dev",
             "repo": "flet_component",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -987,7 +1050,8 @@
             "owner": "fasilwdr",
             "repo": "flet-stack",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         }
       ],
       "title": "Libraries"
@@ -1008,7 +1072,8 @@
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
             "stars": 4736
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1023,7 +1088,8 @@
             "owner": "B1lli",
             "repo": "BillyGPT",
             "stars": 391
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1104,8 @@
             "owner": "sparkmicro",
             "repo": "Ki-nTree",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1053,7 +1120,8 @@
             "owner": "LineIndent",
             "repo": "flet_projects",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1068,7 +1136,8 @@
             "owner": "redromnon",
             "repo": "iBackep",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1152,8 @@
             "owner": "sulasoft",
             "repo": "Amacapy-Bot-Telegram-Amazon-Affiliates",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1168,8 @@
             "owner": "nbilbo",
             "repo": "flet-alchemy",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1184,8 @@
             "owner": "TonyXdZ",
             "repo": "flet-base",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1128,7 +1200,8 @@
             "owner": "makhmud-dev",
             "repo": "Solitaire-on-python",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1143,7 +1216,8 @@
             "owner": "Hayashi-Yudai",
             "repo": "aichat",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1158,7 +1232,8 @@
             "owner": "fazi-gondal",
             "repo": "Vidsaver",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1173,7 +1248,8 @@
             "owner": "TheAnshulPrakash",
             "repo": "PrePaste",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1188,7 +1264,8 @@
             "owner": "taaaf11",
             "repo": "Calculator",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1203,7 +1280,8 @@
             "owner": "taaaf11",
             "repo": "Simple-Stopwatch",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1218,7 +1296,8 @@
             "owner": "fazi-gondal",
             "repo": "Video-Downloader",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1233,7 +1312,8 @@
             "owner": "UnnatMalik",
             "repo": "CHAT-BOT",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1248,7 +1328,8 @@
             "owner": "Benitmulindwa",
             "repo": "organo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1263,7 +1344,8 @@
             "owner": "osamalzabidi",
             "repo": "flet-timer",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1278,7 +1360,8 @@
             "owner": "ProfMohsinKhan",
             "repo": "Passport-size-photo-maker",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1293,7 +1376,8 @@
             "owner": "jmzdd",
             "repo": "Bookkeeping-Assistant",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1308,7 +1392,8 @@
             "owner": "Twilight0",
             "repo": "org.flettts.demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1323,7 +1408,8 @@
             "owner": "jorge-lgclabs",
             "repo": "PyGem",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         }
       ],
       "title": "Apps and Projects"
@@ -1344,7 +1430,8 @@
             "owner": "Benitmulindwa",
             "repo": "FigmaFlet",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1359,7 +1446,8 @@
             "owner": "Nwokike",
             "repo": "flet-mcp-server",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1374,7 +1462,8 @@
             "owner": "brunobrown",
             "repo": "flet-pkg",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1389,7 +1478,8 @@
             "owner": "brunobrown",
             "repo": "flet-splash",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "node_type": "item",
@@ -1404,7 +1494,8 @@
             "owner": "webtechmoz",
             "repo": "pyflet",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
         },
         {
           "children": [
@@ -1421,7 +1512,8 @@
                 "owner": "50Bytes-dev",
                 "repo": "vscode-flet-wrap",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T00:52:51.712Z"
             }
           ],
           "description": "Editor and IDE plugins for development of Flet apps.",
@@ -1433,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:19:08.658Z",
+    "last_updated": "2026-08-29T00:52:51.712Z",
     "original_repository_info": {
       "archived": false,
       "id": 716705435,
