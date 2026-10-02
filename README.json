@@ -36,7 +36,7 @@
             "id": 1282471700,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-01T19:10:55Z",
+            "last_commit": "2026-10-02T09:32:40Z",
             "open_issues": 0,
             "owner": "Nwokike",
             "repo": "CollabShell",
@@ -220,7 +220,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -250,7 +250,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -280,7 +280,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -310,7 +310,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -340,7 +340,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -370,7 +370,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -400,7 +400,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -430,7 +430,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -460,7 +460,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -490,7 +490,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -520,7 +520,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -550,7 +550,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -580,7 +580,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -610,7 +610,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -640,7 +640,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -670,7 +670,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -700,7 +700,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -730,7 +730,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -760,7 +760,7 @@
                 "open_issues": 313,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17221,
+                "stars": 17233,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1935,7 +1935,7 @@
             "open_issues": 3,
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4736,
+            "stars": 4735,
             "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
@@ -2694,7 +2694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:36:29.941Z",
+    "last_updated": "2026-10-02T21:11:44.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ An awesome list that curates the best Flet extensions, libraries, tools, tutorials, articles and more.",
@@ -2706,7 +2706,7 @@
       "open_issues": 0,
       "owner": "flet-dev",
       "repo": "awesome-flet",
-      "stars": 302,
+      "stars": 303,
       "topics": [
         "awesome-flet",
         "awesome-list",
