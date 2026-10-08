@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Flet apps shipped to one or more public app stores.",
+      "description": "End-user Flet apps available from a public app store or as a hosted web app, ready to install or use without setting up the source code.",
       "items": [
         {
           "node_type": "item",
@@ -80,6 +80,27 @@
         },
         {
           "node_type": "item",
+          "title": "Flet TTS Demo",
+          "description": "Converts text to speech with Microsoft Edge neural voices, streaming playback, voice controls, and MP3 export. Web Open app GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pure-Python Flet demo application with real-time Microsoft Edge Neural Text-to-Speech",
+            "homepage": null,
+            "id": 1339709784,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-19T16:54:35Z",
+            "open_issues": 0,
+            "owner": "Twilight0",
+            "repo": "org.flettts.demo",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
+        },
+        {
+          "node_type": "item",
           "title": "KTV Player",
           "description": "Live TV player for your own M3U playlists and custom channels. Android Google Play GitHub",
           "children": [],
@@ -106,6 +127,48 @@
               "stream",
               "tv"
             ]
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Organo",
+          "description": "Generates chemical compound structures from their IUPAC names. Web Open app GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate Chemical compounds structure from their IUPAC names",
+            "homepage": null,
+            "id": 763063129,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2025-02-15T08:21:58Z",
+            "open_issues": 0,
+            "owner": "Benitmulindwa",
+            "repo": "organo",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PyGem",
+          "description": "Pass-and-play strategy game for two to four players, based on the board game Splendor. Web Open app GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Adaptation of Splendor",
+            "homepage": null,
+            "id": 1126365284,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-03-18T13:14:07Z",
+            "open_issues": 0,
+            "owner": "jorge-lgclabs",
+            "repo": "PyGem",
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         },
@@ -143,6 +206,36 @@
               "ui",
               "username-search",
               "windows"
+            ]
+          },
+          "first_seen": "2026-08-29T00:52:51.712Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Vidsaver",
+          "description": "Downloads and manages videos from supported platforms on mobile, desktop, and the web. Web Open app GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pasting a link, downloading, viewing saved videos, and deleting downloads.",
+            "homepage": null,
+            "id": 1288004296,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-09-30T02:15:15Z",
+            "open_issues": 0,
+            "owner": "fazi-gondal",
+            "repo": "Vidsaver",
+            "stars": 6,
+            "topics": [
+              "flet",
+              "flet-app",
+              "flet-dev",
+              "flutter",
+              "pyhton",
+              "social-media",
+              "socialmediadownloader",
+              "yt-dlp"
             ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
@@ -216,11 +309,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -246,11 +339,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -276,11 +369,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -306,11 +399,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -336,11 +429,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -366,11 +459,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -396,11 +489,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -426,11 +519,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -456,11 +549,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -486,11 +579,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -516,11 +609,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -546,11 +639,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -576,11 +669,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -606,11 +699,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -636,11 +729,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -666,11 +759,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -696,11 +789,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -726,11 +819,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -756,11 +849,11 @@
                 "id": 473670467,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T19:39:23Z",
-                "open_issues": 290,
+                "last_commit": "2026-10-08T21:43:21Z",
+                "open_issues": 280,
                 "owner": "flet-dev",
                 "repo": "flet",
-                "stars": 17266,
+                "stars": 17292,
                 "topics": [
                   "android",
                   "cross-platform",
@@ -1809,7 +1902,7 @@
             "id": 1038269301,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-23T19:39:11Z",
+            "last_commit": "2026-10-08T04:38:09Z",
             "open_issues": 0,
             "owner": "AliAminiCode",
             "repo": "flet-persian-datepicker",
@@ -1935,7 +2028,7 @@
             "open_issues": 3,
             "owner": "moshstudio",
             "repo": "TAICHI-flet",
-            "stars": 4737,
+            "stars": 4738,
             "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
@@ -2037,7 +2130,7 @@
             "open_issues": 7,
             "owner": "redromnon",
             "repo": "iBackep",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "backup",
               "flet",
@@ -2174,36 +2267,6 @@
               "mcp",
               "mcp-client",
               "openai"
-            ]
-          },
-          "first_seen": "2026-08-29T00:52:51.712Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Vidsaver",
-          "description": "Video downloader using with Android MediaStore integration and desktop/mobile support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pasting a link, downloading, viewing saved videos, and deleting downloads.",
-            "homepage": null,
-            "id": 1288004296,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-09-30T02:15:15Z",
-            "open_issues": 0,
-            "owner": "fazi-gondal",
-            "repo": "Vidsaver",
-            "stars": 6,
-            "topics": [
-              "flet",
-              "flet-app",
-              "flet-dev",
-              "flutter",
-              "pyhton",
-              "social-media",
-              "socialmediadownloader",
-              "yt-dlp"
             ]
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
@@ -2372,27 +2435,6 @@
         },
         {
           "node_type": "item",
-          "title": "Organo",
-          "description": "Generates organic structures from their IUPAC names.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate Chemical compounds structure from their IUPAC names",
-            "homepage": null,
-            "id": 763063129,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2025-02-15T08:21:58Z",
-            "open_issues": 0,
-            "owner": "Benitmulindwa",
-            "repo": "organo",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:52:51.712Z"
-        },
-        {
-          "node_type": "item",
           "title": "flet-timer",
           "description": "Example countdown timer using threads for real-time updates.",
           "children": [],
@@ -2454,48 +2496,6 @@
               "flet",
               "python"
             ]
-          },
-          "first_seen": "2026-08-29T00:52:51.712Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Flet TTS Demo",
-          "description": "Pure-Python text-to-speech demo using Microsoft Edge neural voices, with streaming playback, voice controls, and MP3 export.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Pure-Python Flet demo application with real-time Microsoft Edge Neural Text-to-Speech",
-            "homepage": null,
-            "id": 1339709784,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-19T16:54:35Z",
-            "open_issues": 0,
-            "owner": "Twilight0",
-            "repo": "org.flettts.demo",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:52:51.712Z"
-        },
-        {
-          "node_type": "item",
-          "title": "PyGem",
-          "description": "Adaptation of the board game Splendor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Adaptation of Splendor",
-            "homepage": null,
-            "id": 1126365284,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-03-18T13:14:07Z",
-            "open_issues": 0,
-            "owner": "jorge-lgclabs",
-            "repo": "PyGem",
-            "stars": 0,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:52:51.712Z"
         }
@@ -2694,7 +2694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:48:05.936Z",
+    "last_updated": "2026-10-08T21:51:04.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "⭐ An awesome list that curates the best Flet extensions, libraries, tools, tutorials, articles and more.",
@@ -2702,11 +2702,11 @@
       "id": 716705435,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-09-26T15:21:24Z",
+      "last_commit": "2026-10-08T04:32:03Z",
       "open_issues": 0,
       "owner": "flet-dev",
       "repo": "awesome-flet",
-      "stars": 303,
+      "stars": 305,
       "topics": [
         "awesome-flet",
         "awesome-list",
@@ -2715,7 +2715,7 @@
         "python"
       ]
     },
-    "original_repository_sha": "e5cdc32b90c64cd1e7b02a94e4f51449135fd061",
+    "original_repository_sha": "e9a365160812ad13ca6b58ecc2bf8cca0382f938",
     "enhanced_repository": "enhansome/enhansome-flet",
     "enhanced_repository_description": null,
     "title": "Awesome flet with stars"
