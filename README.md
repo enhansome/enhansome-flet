@@ -91,7 +91,7 @@ End-user Flet apps available from a public app store or as a hosted web app, rea
 | Akili             | After-school learning app with a smart tutor, quizzes, homework, and exams.                                                           | Android                 | [Google Play](https://play.google.com/store/apps/details?id=ng.kiri.akili)                                                                                                   | [GitHub](https://github.com/Nwokike/akili-app) ⭐ 4 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-02                                                                                                        |
 | Co-Tower          | Desktop companion for monitoring GitHub Copilot tasks, seat usage, and organization events.                                           | Windows · Linux         | [Microsoft Store](https://apps.microsoft.com/detail/9nl06gx6j83p) · [Snap Store](https://snapcraft.io/co-tower)                                                              | [Website](https://etz-hadaat.github.io/Co-Tower/)                                                                                                                                               |
 | CodeUA            | A daily 9:00 AM minute-of-silence app to collectively commemorate those who lost their lives in the war in Ukraine.                   | Android                 | [Google Play](https://play.google.com/store/apps/details?id=org.foundation101.codeua)                                                                                        | [Website](https://www.foundation101.org)                                                                                                                                                        |
-| Collab Shell      | Runs cloud notebooks and interactive terminals and manages files from a mobile device.                                                | Android                 | [Google Play](https://play.google.com/store/apps/details?id=ng.kiri.collabshell)                                                                                             | [GitHub](https://github.com/Nwokike/CollabShell) ⭐ 7 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-04                                                                                                      |
+| Collab Shell      | Runs cloud notebooks and interactive terminals and manages files from a mobile device.                                                | Android                 | [Google Play](https://play.google.com/store/apps/details?id=ng.kiri.collabshell)                                                                                             | [GitHub](https://github.com/Nwokike/CollabShell) ⭐ 7 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-05                                                                                                      |
 | DDGS              | Privacy-focused metasearch app for web, image, video, news, book, and webpage content.                                                | Android                 | [Google Play](https://play.google.com/store/apps/details?id=ng.kiri.ddgs)                                                                                                    | [GitHub](https://github.com/Nwokike/DDGS) ⭐ 3 \| 🐛 0 \| 🌐 Python \| 📅 2026-11-03                                                                                                             |
 | Flet              | Official client to preview and test Flet apps on a device.                                                                            | Android · iOS           | [Google Play](https://play.google.com/store/apps/details?id=com.appveyor.flet) · [App Store](https://apps.apple.com/app/flet/id1624979699)                                   | -                                                                                                                                                                                               |
 | Flet TTS Demo     | Converts text to speech with Microsoft Edge neural voices, streaming playback, voice controls, and MP3 export.                        | Web                     | [Open app](https://twilight0.github.io/org.flettts.demo/)                                                                                                                    | [GitHub](https://github.com/Twilight0/org.flettts.demo) ⭐ 0 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-30                                                                                               |
@@ -125,25 +125,25 @@ See this [guide](https://flet.dev/docs/extend/user-extensions/) to build your ow
 
 Built and actively maintained by the Flet team.
 
-* [flet-ads](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-ads) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Google AdMob ads. Wraps [`google_mobile_ads`](https://pub.dev/packages/google_mobile_ads).
-* [flet-audio](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-audio) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Audio playback. Wraps [`audioplayers`](https://pub.dev/packages/audioplayers).
-* [flet-audio-recorder](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-audio-recorder) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Microphone audio recording. Wraps [`record`](https://pub.dev/packages/record).
-* [flet-camera](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-camera) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Device camera access. Wraps [`camera`](https://pub.dev/packages/camera).
-* [flet-charts](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-charts) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Interactive charts and graphs. Wraps [`fl_chart`](https://pub.dev/packages/fl_chart).
-* [flet-code-editor](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-code-editor) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Code editor with syntax highlighting. Wraps [`flutter_code_editor`](https://pub.dev/packages/flutter_code_editor).
-* [flet-color-pickers](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-color-pickers) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Color picker controls. Wraps [`flutter_colorpicker`](https://pub.dev/packages/flutter_colorpicker).
-* [flet-datatable2](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-datatable2) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - DataTable with sticky headers and fixed columns. Wraps [`data_table_2`](https://pub.dev/packages/data_table_2).
-* [flet-flashlight](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-flashlight) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Device torch control. Wraps [`flashlight`](https://pub.dev/packages/flashlight).
-* [flet-geolocator](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-geolocator) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - GPS position and position streams. Wraps [`geolocator`](https://pub.dev/packages/geolocator).
-* [flet-lottie](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-lottie) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Lottie animations. Wraps [`lottie`](https://pub.dev/packages/lottie).
-* [flet-local-auth](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-local-auth) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Authenticate users with biometrics, PIN, passcode, or pattern. Wraps [`local_auth`](https://pub.dev/packages/local_auth).
-* [flet-map](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-map) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Interactive tile-based maps. Wraps [`flutter_map`](https://pub.dev/packages/flutter_map).
-* [flet-permission-handler](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-permission-handler) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Request and check device permissions. Wraps [`permission_handler`](https://pub.dev/packages/permission_handler).
-* [flet-rive](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-rive) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Rive animations. Wraps [`rive`](https://pub.dev/packages/rive).
-* [flet-secure-storage](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-secure-storage) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Native secure key-value storage. Wraps [`flutter_secure_storage`](https://pub.dev/packages/flutter_secure_storage).
-* [flet-spinkit](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-spinkit) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Loading spinners. Wraps [`flutter_spinkit`](https://pub.dev/packages/flutter_spinkit).
-* [flet-video](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-video) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - Cross-platform video player. Wraps [`media_kit`](https://pub.dev/packages/media_kit).
-* [flet-webview](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-webview) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04 - In-app WebView. Wraps [`webview_flutter`](https://pub.dev/packages/webview_flutter).
+* [flet-ads](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-ads) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Google AdMob ads. Wraps [`google_mobile_ads`](https://pub.dev/packages/google_mobile_ads).
+* [flet-audio](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-audio) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Audio playback. Wraps [`audioplayers`](https://pub.dev/packages/audioplayers).
+* [flet-audio-recorder](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-audio-recorder) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Microphone audio recording. Wraps [`record`](https://pub.dev/packages/record).
+* [flet-camera](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-camera) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Device camera access. Wraps [`camera`](https://pub.dev/packages/camera).
+* [flet-charts](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-charts) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Interactive charts and graphs. Wraps [`fl_chart`](https://pub.dev/packages/fl_chart).
+* [flet-code-editor](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-code-editor) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Code editor with syntax highlighting. Wraps [`flutter_code_editor`](https://pub.dev/packages/flutter_code_editor).
+* [flet-color-pickers](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-color-pickers) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Color picker controls. Wraps [`flutter_colorpicker`](https://pub.dev/packages/flutter_colorpicker).
+* [flet-datatable2](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-datatable2) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - DataTable with sticky headers and fixed columns. Wraps [`data_table_2`](https://pub.dev/packages/data_table_2).
+* [flet-flashlight](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-flashlight) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Device torch control. Wraps [`flashlight`](https://pub.dev/packages/flashlight).
+* [flet-geolocator](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-geolocator) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - GPS position and position streams. Wraps [`geolocator`](https://pub.dev/packages/geolocator).
+* [flet-lottie](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-lottie) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Lottie animations. Wraps [`lottie`](https://pub.dev/packages/lottie).
+* [flet-local-auth](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-local-auth) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Authenticate users with biometrics, PIN, passcode, or pattern. Wraps [`local_auth`](https://pub.dev/packages/local_auth).
+* [flet-map](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-map) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Interactive tile-based maps. Wraps [`flutter_map`](https://pub.dev/packages/flutter_map).
+* [flet-permission-handler](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-permission-handler) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Request and check device permissions. Wraps [`permission_handler`](https://pub.dev/packages/permission_handler).
+* [flet-rive](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-rive) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Rive animations. Wraps [`rive`](https://pub.dev/packages/rive).
+* [flet-secure-storage](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-secure-storage) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Native secure key-value storage. Wraps [`flutter_secure_storage`](https://pub.dev/packages/flutter_secure_storage).
+* [flet-spinkit](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-spinkit) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Loading spinners. Wraps [`flutter_spinkit`](https://pub.dev/packages/flutter_spinkit).
+* [flet-video](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-video) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - Cross-platform video player. Wraps [`media_kit`](https://pub.dev/packages/media_kit).
+* [flet-webview](https://github.com/flet-dev/flet/tree/main/sdk/python/packages/flet-webview) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05 - In-app WebView. Wraps [`webview_flutter`](https://pub.dev/packages/webview_flutter).
 
 ### Community Extensions
 
@@ -208,7 +208,7 @@ Community-made reusable packages, frameworks, and components that extend what yo
 Community-made open-source apps and projects built with Flet — browse them to learn by example or see what's possible.
 
 * [TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) ⭐ 4,743 | 🐛 3 | 🌐 Python | 📅 2026-10-11 - Windows desktop app for browsing images, music, novels, and comics.
-* [BillyGPT](https://github.com/B1lli/BillyGPT) ⭐ 392 | 🐛 0 | 🌐 Python | 📅 2026-06-08 - Free, cross-platform ChatGPT client.
+* [BillyGPT](https://github.com/B1lli/BillyGPT) ⭐ 393 | 🐛 0 | 🌐 Python | 📅 2026-06-08 - Free, cross-platform ChatGPT client.
 * [Ki-nTree](https://github.com/sparkmicro/Ki-nTree) ⭐ 251 | 🐛 24 | 🌐 Python | 📅 2026-07-09 - Fast part creation for KiCad and InvenTree.
 * [flet\_projects](https://github.com/LineIndent/flet_projects) ⚠️ Archived - Collection of applications built with Flet.
 * [Amacapy](https://github.com/sulasoft/Amacapy-Bot-Telegram-Amazon-Affiliates) ⭐ 133 | 🐛 10 | 🌐 Python | 📅 2025-09-17 - Amazon affiliate scraper and Telegram bot with a Flet UI.
@@ -253,7 +253,7 @@ Where to ask questions, share what you've built, and connect with other Flet dev
 * [Bluesky](https://bsky.app/profile/fletdev.bsky.social)
 * [Discord](https://discord.gg/dzWXP8SHG8)
 * [Email us](mailto:hello@flet.dev)
-* [GitHub Discussions](https://github.com/flet-dev/flet/discussions) ⭐ 17,508 | 🐛 249 | 🌐 Python | 📅 2026-11-04
+* [GitHub Discussions](https://github.com/flet-dev/flet/discussions) ⭐ 17,516 | 🐛 214 | 🌐 Python | 📅 2026-11-05
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/flet)
 * [X (Twitter)](https://twitter.com/fletdev)
 
@@ -265,4 +265,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guidelines and entry formats
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
